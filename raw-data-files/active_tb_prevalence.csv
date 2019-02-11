@@ -1,0 +1,38 @@
+,country,tb_per_100k_base,tb_per_100k_low,tb_per_100k_high
+0,Afghanistan,340.0,178.0,554.0
+1,Bangladesh,402.0,210.0,656.0
+2,Brazil,57.0,27.0,99.0
+3,Cambodia,715.0,604.0,834.0
+4,China,94.0,82.0,107.0
+5,Congo,462.0,247.0,744.0
+6,Ethiopia,211.0,170.0,257.0
+7,India,211.0,143.0,294.0
+8,Indonesia,272.0,138.0,450.0
+9,Kenya,283.0,156.0,447.0
+10,Mozambique,559.0,303.0,893.0
+11,Myanmar,473.0,364.0,595.0
+12,Nigeria,326.0,246.0,418.0
+13,Pakistan,342.0,284.0,406.0
+14,Philippines,438.0,385.0,495.0
+15,Russian Federation,114.0,51.0,201.0
+16,South Africa,715.0,396.0,1126.0
+17,United Republic of Tanzania,172.0,92.0,277.0
+18,Thailand,149.0,72.0,252.0
+19,Uganda,154.0,85.0,243.0
+20,Viet Nam,209.0,86.0,384.0
+21,Zimbabwe,409.0,235.0,630.0
+22,Mexico,26.0,11.0,45.0
+23,Belize,39.0,17.0,70.0
+24,Guatemala,110.0,56.0,183.0
+25,El Salvador,48.0,22.0,86.0
+26,Honduras,74.0,37.0,125.0
+27,Nicaragua,68.0,28.0,126.0
+28,Costa Rica,15.0,7.0,25.0
+29,Panama,61.0,30.0,103.0
+30,United States of America,4.1,1.8,7.4
+0,Other Eastern Mediterranean Region,71.8038780581,34.7466051311,123.353540651
+1,Other European Region,38.7254199674,17.884496996,67.3029691476
+2,Other African Region,273.150586622,142.626606695,445.148451028
+3,Other Western Pacific Region,85.2848564961,49.9360488167,132.237835719
+4,Other Region of the Americas,63.9048748187,31.0436902339,107.104924997
+5,Other South-East Asia Region,291.083701998,103.538131584,584.450928078

@@ -1,0 +1,4756 @@
+- Cycle 0: 
+  id: 0
+  name: Initialization
+  year: 2000
+- Cycle 1: 
+  id: 1
+  name: January 2001
+  year: 2001
+- Cycle 2: 
+  id: 2
+  name: February 2001
+  year: 2001
+- Cycle 3: 
+  id: 3
+  name: March 2001
+  year: 2001
+- Cycle 4: 
+  id: 4
+  name: April 2001
+  year: 2001
+- Cycle 5: 
+  id: 5
+  name: May 2001
+  year: 2001
+- Cycle 6: 
+  id: 6
+  name: June 2001
+  year: 2001
+- Cycle 7: 
+  id: 7
+  name: July 2001
+  year: 2001
+- Cycle 8: 
+  id: 8
+  name: August 2001
+  year: 2001
+- Cycle 9: 
+  id: 9
+  name: September 2001
+  year: 2001
+- Cycle 10: 
+  id: 10
+  name: October 2001
+  year: 2001
+- Cycle 11: 
+  id: 11
+  name: November 2001
+  year: 2001
+- Cycle 12: 
+  id: 12
+  name: December 2001
+  year: 2001
+- Cycle 13: 
+  id: 13
+  name: January 2002
+  year: 2002
+- Cycle 14: 
+  id: 14
+  name: February 2002
+  year: 2002
+- Cycle 15: 
+  id: 15
+  name: March 2002
+  year: 2002
+- Cycle 16: 
+  id: 16
+  name: April 2002
+  year: 2002
+- Cycle 17: 
+  id: 17
+  name: May 2002
+  year: 2002
+- Cycle 18: 
+  id: 18
+  name: June 2002
+  year: 2002
+- Cycle 19: 
+  id: 19
+  name: July 2002
+  year: 2002
+- Cycle 20: 
+  id: 20
+  name: August 2002
+  year: 2002
+- Cycle 21: 
+  id: 21
+  name: September 2002
+  year: 2002
+- Cycle 22: 
+  id: 22
+  name: October 2002
+  year: 2002
+- Cycle 23: 
+  id: 23
+  name: November 2002
+  year: 2002
+- Cycle 24: 
+  id: 24
+  name: December 2002
+  year: 2002
+- Cycle 25: 
+  id: 25
+  name: January 2003
+  year: 2003
+- Cycle 26: 
+  id: 26
+  name: February 2003
+  year: 2003
+- Cycle 27: 
+  id: 27
+  name: March 2003
+  year: 2003
+- Cycle 28: 
+  id: 28
+  name: April 2003
+  year: 2003
+- Cycle 29: 
+  id: 29
+  name: May 2003
+  year: 2003
+- Cycle 30: 
+  id: 30
+  name: June 2003
+  year: 2003
+- Cycle 31: 
+  id: 31
+  name: July 2003
+  year: 2003
+- Cycle 32: 
+  id: 32
+  name: August 2003
+  year: 2003
+- Cycle 33: 
+  id: 33
+  name: September 2003
+  year: 2003
+- Cycle 34: 
+  id: 34
+  name: October 2003
+  year: 2003
+- Cycle 35: 
+  id: 35
+  name: November 2003
+  year: 2003
+- Cycle 36: 
+  id: 36
+  name: December 2003
+  year: 2003
+- Cycle 37: 
+  id: 37
+  name: January 2004
+  year: 2004
+- Cycle 38: 
+  id: 38
+  name: February 2004
+  year: 2004
+- Cycle 39: 
+  id: 39
+  name: March 2004
+  year: 2004
+- Cycle 40: 
+  id: 40
+  name: April 2004
+  year: 2004
+- Cycle 41: 
+  id: 41
+  name: May 2004
+  year: 2004
+- Cycle 42: 
+  id: 42
+  name: June 2004
+  year: 2004
+- Cycle 43: 
+  id: 43
+  name: July 2004
+  year: 2004
+- Cycle 44: 
+  id: 44
+  name: August 2004
+  year: 2004
+- Cycle 45: 
+  id: 45
+  name: September 2004
+  year: 2004
+- Cycle 46: 
+  id: 46
+  name: October 2004
+  year: 2004
+- Cycle 47: 
+  id: 47
+  name: November 2004
+  year: 2004
+- Cycle 48: 
+  id: 48
+  name: December 2004
+  year: 2004
+- Cycle 49: 
+  id: 49
+  name: January 2005
+  year: 2005
+- Cycle 50: 
+  id: 50
+  name: February 2005
+  year: 2005
+- Cycle 51: 
+  id: 51
+  name: March 2005
+  year: 2005
+- Cycle 52: 
+  id: 52
+  name: April 2005
+  year: 2005
+- Cycle 53: 
+  id: 53
+  name: May 2005
+  year: 2005
+- Cycle 54: 
+  id: 54
+  name: June 2005
+  year: 2005
+- Cycle 55: 
+  id: 55
+  name: July 2005
+  year: 2005
+- Cycle 56: 
+  id: 56
+  name: August 2005
+  year: 2005
+- Cycle 57: 
+  id: 57
+  name: September 2005
+  year: 2005
+- Cycle 58: 
+  id: 58
+  name: October 2005
+  year: 2005
+- Cycle 59: 
+  id: 59
+  name: November 2005
+  year: 2005
+- Cycle 60: 
+  id: 60
+  name: December 2005
+  year: 2005
+- Cycle 61: 
+  id: 61
+  name: January 2006
+  year: 2006
+- Cycle 62: 
+  id: 62
+  name: February 2006
+  year: 2006
+- Cycle 63: 
+  id: 63
+  name: March 2006
+  year: 2006
+- Cycle 64: 
+  id: 64
+  name: April 2006
+  year: 2006
+- Cycle 65: 
+  id: 65
+  name: May 2006
+  year: 2006
+- Cycle 66: 
+  id: 66
+  name: June 2006
+  year: 2006
+- Cycle 67: 
+  id: 67
+  name: July 2006
+  year: 2006
+- Cycle 68: 
+  id: 68
+  name: August 2006
+  year: 2006
+- Cycle 69: 
+  id: 69
+  name: September 2006
+  year: 2006
+- Cycle 70: 
+  id: 70
+  name: October 2006
+  year: 2006
+- Cycle 71: 
+  id: 71
+  name: November 2006
+  year: 2006
+- Cycle 72: 
+  id: 72
+  name: December 2006
+  year: 2006
+- Cycle 73: 
+  id: 73
+  name: January 2007
+  year: 2007
+- Cycle 74: 
+  id: 74
+  name: February 2007
+  year: 2007
+- Cycle 75: 
+  id: 75
+  name: March 2007
+  year: 2007
+- Cycle 76: 
+  id: 76
+  name: April 2007
+  year: 2007
+- Cycle 77: 
+  id: 77
+  name: May 2007
+  year: 2007
+- Cycle 78: 
+  id: 78
+  name: June 2007
+  year: 2007
+- Cycle 79: 
+  id: 79
+  name: July 2007
+  year: 2007
+- Cycle 80: 
+  id: 80
+  name: August 2007
+  year: 2007
+- Cycle 81: 
+  id: 81
+  name: September 2007
+  year: 2007
+- Cycle 82: 
+  id: 82
+  name: October 2007
+  year: 2007
+- Cycle 83: 
+  id: 83
+  name: November 2007
+  year: 2007
+- Cycle 84: 
+  id: 84
+  name: December 2007
+  year: 2007
+- Cycle 85: 
+  id: 85
+  name: January 2008
+  year: 2008
+- Cycle 86: 
+  id: 86
+  name: February 2008
+  year: 2008
+- Cycle 87: 
+  id: 87
+  name: March 2008
+  year: 2008
+- Cycle 88: 
+  id: 88
+  name: April 2008
+  year: 2008
+- Cycle 89: 
+  id: 89
+  name: May 2008
+  year: 2008
+- Cycle 90: 
+  id: 90
+  name: June 2008
+  year: 2008
+- Cycle 91: 
+  id: 91
+  name: July 2008
+  year: 2008
+- Cycle 92: 
+  id: 92
+  name: August 2008
+  year: 2008
+- Cycle 93: 
+  id: 93
+  name: September 2008
+  year: 2008
+- Cycle 94: 
+  id: 94
+  name: October 2008
+  year: 2008
+- Cycle 95: 
+  id: 95
+  name: November 2008
+  year: 2008
+- Cycle 96: 
+  id: 96
+  name: December 2008
+  year: 2008
+- Cycle 97: 
+  id: 97
+  name: January 2009
+  year: 2009
+- Cycle 98: 
+  id: 98
+  name: February 2009
+  year: 2009
+- Cycle 99: 
+  id: 99
+  name: March 2009
+  year: 2009
+- Cycle 100: 
+  id: 100
+  name: April 2009
+  year: 2009
+- Cycle 101: 
+  id: 101
+  name: May 2009
+  year: 2009
+- Cycle 102: 
+  id: 102
+  name: June 2009
+  year: 2009
+- Cycle 103: 
+  id: 103
+  name: July 2009
+  year: 2009
+- Cycle 104: 
+  id: 104
+  name: August 2009
+  year: 2009
+- Cycle 105: 
+  id: 105
+  name: September 2009
+  year: 2009
+- Cycle 106: 
+  id: 106
+  name: October 2009
+  year: 2009
+- Cycle 107: 
+  id: 107
+  name: November 2009
+  year: 2009
+- Cycle 108: 
+  id: 108
+  name: December 2009
+  year: 2009
+- Cycle 109: 
+  id: 109
+  name: January 2010
+  year: 2010
+- Cycle 110: 
+  id: 110
+  name: February 2010
+  year: 2010
+- Cycle 111: 
+  id: 111
+  name: March 2010
+  year: 2010
+- Cycle 112: 
+  id: 112
+  name: April 2010
+  year: 2010
+- Cycle 113: 
+  id: 113
+  name: May 2010
+  year: 2010
+- Cycle 114: 
+  id: 114
+  name: June 2010
+  year: 2010
+- Cycle 115: 
+  id: 115
+  name: July 2010
+  year: 2010
+- Cycle 116: 
+  id: 116
+  name: August 2010
+  year: 2010
+- Cycle 117: 
+  id: 117
+  name: September 2010
+  year: 2010
+- Cycle 118: 
+  id: 118
+  name: October 2010
+  year: 2010
+- Cycle 119: 
+  id: 119
+  name: November 2010
+  year: 2010
+- Cycle 120: 
+  id: 120
+  name: December 2010
+  year: 2010
+- Cycle 121: 
+  id: 121
+  name: January 2011
+  year: 2011
+- Cycle 122: 
+  id: 122
+  name: February 2011
+  year: 2011
+- Cycle 123: 
+  id: 123
+  name: March 2011
+  year: 2011
+- Cycle 124: 
+  id: 124
+  name: April 2011
+  year: 2011
+- Cycle 125: 
+  id: 125
+  name: May 2011
+  year: 2011
+- Cycle 126: 
+  id: 126
+  name: June 2011
+  year: 2011
+- Cycle 127: 
+  id: 127
+  name: July 2011
+  year: 2011
+- Cycle 128: 
+  id: 128
+  name: August 2011
+  year: 2011
+- Cycle 129: 
+  id: 129
+  name: September 2011
+  year: 2011
+- Cycle 130: 
+  id: 130
+  name: October 2011
+  year: 2011
+- Cycle 131: 
+  id: 131
+  name: November 2011
+  year: 2011
+- Cycle 132: 
+  id: 132
+  name: December 2011
+  year: 2011
+- Cycle 133: 
+  id: 133
+  name: January 2012
+  year: 2012
+- Cycle 134: 
+  id: 134
+  name: February 2012
+  year: 2012
+- Cycle 135: 
+  id: 135
+  name: March 2012
+  year: 2012
+- Cycle 136: 
+  id: 136
+  name: April 2012
+  year: 2012
+- Cycle 137: 
+  id: 137
+  name: May 2012
+  year: 2012
+- Cycle 138: 
+  id: 138
+  name: June 2012
+  year: 2012
+- Cycle 139: 
+  id: 139
+  name: July 2012
+  year: 2012
+- Cycle 140: 
+  id: 140
+  name: August 2012
+  year: 2012
+- Cycle 141: 
+  id: 141
+  name: September 2012
+  year: 2012
+- Cycle 142: 
+  id: 142
+  name: October 2012
+  year: 2012
+- Cycle 143: 
+  id: 143
+  name: November 2012
+  year: 2012
+- Cycle 144: 
+  id: 144
+  name: December 2012
+  year: 2012
+- Cycle 145: 
+  id: 145
+  name: January 2013
+  year: 2013
+- Cycle 146: 
+  id: 146
+  name: February 2013
+  year: 2013
+- Cycle 147: 
+  id: 147
+  name: March 2013
+  year: 2013
+- Cycle 148: 
+  id: 148
+  name: April 2013
+  year: 2013
+- Cycle 149: 
+  id: 149
+  name: May 2013
+  year: 2013
+- Cycle 150: 
+  id: 150
+  name: June 2013
+  year: 2013
+- Cycle 151: 
+  id: 151
+  name: July 2013
+  year: 2013
+- Cycle 152: 
+  id: 152
+  name: August 2013
+  year: 2013
+- Cycle 153: 
+  id: 153
+  name: September 2013
+  year: 2013
+- Cycle 154: 
+  id: 154
+  name: October 2013
+  year: 2013
+- Cycle 155: 
+  id: 155
+  name: November 2013
+  year: 2013
+- Cycle 156: 
+  id: 156
+  name: December 2013
+  year: 2013
+- Cycle 157: 
+  id: 157
+  name: January 2014
+  year: 2014
+- Cycle 158: 
+  id: 158
+  name: February 2014
+  year: 2014
+- Cycle 159: 
+  id: 159
+  name: March 2014
+  year: 2014
+- Cycle 160: 
+  id: 160
+  name: April 2014
+  year: 2014
+- Cycle 161: 
+  id: 161
+  name: May 2014
+  year: 2014
+- Cycle 162: 
+  id: 162
+  name: June 2014
+  year: 2014
+- Cycle 163: 
+  id: 163
+  name: July 2014
+  year: 2014
+- Cycle 164: 
+  id: 164
+  name: August 2014
+  year: 2014
+- Cycle 165: 
+  id: 165
+  name: September 2014
+  year: 2014
+- Cycle 166: 
+  id: 166
+  name: October 2014
+  year: 2014
+- Cycle 167: 
+  id: 167
+  name: November 2014
+  year: 2014
+- Cycle 168: 
+  id: 168
+  name: December 2014
+  year: 2014
+- Cycle 169: 
+  id: 169
+  name: January 2015
+  year: 2015
+- Cycle 170: 
+  id: 170
+  name: February 2015
+  year: 2015
+- Cycle 171: 
+  id: 171
+  name: March 2015
+  year: 2015
+- Cycle 172: 
+  id: 172
+  name: April 2015
+  year: 2015
+- Cycle 173: 
+  id: 173
+  name: May 2015
+  year: 2015
+- Cycle 174: 
+  id: 174
+  name: June 2015
+  year: 2015
+- Cycle 175: 
+  id: 175
+  name: July 2015
+  year: 2015
+- Cycle 176: 
+  id: 176
+  name: August 2015
+  year: 2015
+- Cycle 177: 
+  id: 177
+  name: September 2015
+  year: 2015
+- Cycle 178: 
+  id: 178
+  name: October 2015
+  year: 2015
+- Cycle 179: 
+  id: 179
+  name: November 2015
+  year: 2015
+- Cycle 180: 
+  id: 180
+  name: December 2015
+  year: 2015
+- Cycle 181: 
+  id: 181
+  name: January 2016
+  year: 2016
+- Cycle 182: 
+  id: 182
+  name: February 2016
+  year: 2016
+- Cycle 183: 
+  id: 183
+  name: March 2016
+  year: 2016
+- Cycle 184: 
+  id: 184
+  name: April 2016
+  year: 2016
+- Cycle 185: 
+  id: 185
+  name: May 2016
+  year: 2016
+- Cycle 186: 
+  id: 186
+  name: June 2016
+  year: 2016
+- Cycle 187: 
+  id: 187
+  name: July 2016
+  year: 2016
+- Cycle 188: 
+  id: 188
+  name: August 2016
+  year: 2016
+- Cycle 189: 
+  id: 189
+  name: September 2016
+  year: 2016
+- Cycle 190: 
+  id: 190
+  name: October 2016
+  year: 2016
+- Cycle 191: 
+  id: 191
+  name: November 2016
+  year: 2016
+- Cycle 192: 
+  id: 192
+  name: December 2016
+  year: 2016
+- Cycle 193: 
+  id: 193
+  name: January 2017
+  year: 2017
+- Cycle 194: 
+  id: 194
+  name: February 2017
+  year: 2017
+- Cycle 195: 
+  id: 195
+  name: March 2017
+  year: 2017
+- Cycle 196: 
+  id: 196
+  name: April 2017
+  year: 2017
+- Cycle 197: 
+  id: 197
+  name: May 2017
+  year: 2017
+- Cycle 198: 
+  id: 198
+  name: June 2017
+  year: 2017
+- Cycle 199: 
+  id: 199
+  name: July 2017
+  year: 2017
+- Cycle 200: 
+  id: 200
+  name: August 2017
+  year: 2017
+- Cycle 201: 
+  id: 201
+  name: September 2017
+  year: 2017
+- Cycle 202: 
+  id: 202
+  name: October 2017
+  year: 2017
+- Cycle 203: 
+  id: 203
+  name: November 2017
+  year: 2017
+- Cycle 204: 
+  id: 204
+  name: December 2017
+  year: 2017
+- Cycle 205: 
+  id: 205
+  name: January 2018
+  year: 2018
+- Cycle 206: 
+  id: 206
+  name: February 2018
+  year: 2018
+- Cycle 207: 
+  id: 207
+  name: March 2018
+  year: 2018
+- Cycle 208: 
+  id: 208
+  name: April 2018
+  year: 2018
+- Cycle 209: 
+  id: 209
+  name: May 2018
+  year: 2018
+- Cycle 210: 
+  id: 210
+  name: June 2018
+  year: 2018
+- Cycle 211: 
+  id: 211
+  name: July 2018
+  year: 2018
+- Cycle 212: 
+  id: 212
+  name: August 2018
+  year: 2018
+- Cycle 213: 
+  id: 213
+  name: September 2018
+  year: 2018
+- Cycle 214: 
+  id: 214
+  name: October 2018
+  year: 2018
+- Cycle 215: 
+  id: 215
+  name: November 2018
+  year: 2018
+- Cycle 216: 
+  id: 216
+  name: December 2018
+  year: 2018
+- Cycle 217: 
+  id: 217
+  name: January 2019
+  year: 2019
+- Cycle 218: 
+  id: 218
+  name: February 2019
+  year: 2019
+- Cycle 219: 
+  id: 219
+  name: March 2019
+  year: 2019
+- Cycle 220: 
+  id: 220
+  name: April 2019
+  year: 2019
+- Cycle 221: 
+  id: 221
+  name: May 2019
+  year: 2019
+- Cycle 222: 
+  id: 222
+  name: June 2019
+  year: 2019
+- Cycle 223: 
+  id: 223
+  name: July 2019
+  year: 2019
+- Cycle 224: 
+  id: 224
+  name: August 2019
+  year: 2019
+- Cycle 225: 
+  id: 225
+  name: September 2019
+  year: 2019
+- Cycle 226: 
+  id: 226
+  name: October 2019
+  year: 2019
+- Cycle 227: 
+  id: 227
+  name: November 2019
+  year: 2019
+- Cycle 228: 
+  id: 228
+  name: December 2019
+  year: 2019
+- Cycle 229: 
+  id: 229
+  name: January 2020
+  year: 2020
+- Cycle 230: 
+  id: 230
+  name: February 2020
+  year: 2020
+- Cycle 231: 
+  id: 231
+  name: March 2020
+  year: 2020
+- Cycle 232: 
+  id: 232
+  name: April 2020
+  year: 2020
+- Cycle 233: 
+  id: 233
+  name: May 2020
+  year: 2020
+- Cycle 234: 
+  id: 234
+  name: June 2020
+  year: 2020
+- Cycle 235: 
+  id: 235
+  name: July 2020
+  year: 2020
+- Cycle 236: 
+  id: 236
+  name: August 2020
+  year: 2020
+- Cycle 237: 
+  id: 237
+  name: September 2020
+  year: 2020
+- Cycle 238: 
+  id: 238
+  name: October 2020
+  year: 2020
+- Cycle 239: 
+  id: 239
+  name: November 2020
+  year: 2020
+- Cycle 240: 
+  id: 240
+  name: December 2020
+  year: 2020
+- Cycle 241: 
+  id: 241
+  name: January 2021
+  year: 2021
+- Cycle 242: 
+  id: 242
+  name: February 2021
+  year: 2021
+- Cycle 243: 
+  id: 243
+  name: March 2021
+  year: 2021
+- Cycle 244: 
+  id: 244
+  name: April 2021
+  year: 2021
+- Cycle 245: 
+  id: 245
+  name: May 2021
+  year: 2021
+- Cycle 246: 
+  id: 246
+  name: June 2021
+  year: 2021
+- Cycle 247: 
+  id: 247
+  name: July 2021
+  year: 2021
+- Cycle 248: 
+  id: 248
+  name: August 2021
+  year: 2021
+- Cycle 249: 
+  id: 249
+  name: September 2021
+  year: 2021
+- Cycle 250: 
+  id: 250
+  name: October 2021
+  year: 2021
+- Cycle 251: 
+  id: 251
+  name: November 2021
+  year: 2021
+- Cycle 252: 
+  id: 252
+  name: December 2021
+  year: 2021
+- Cycle 253: 
+  id: 253
+  name: January 2022
+  year: 2022
+- Cycle 254: 
+  id: 254
+  name: February 2022
+  year: 2022
+- Cycle 255: 
+  id: 255
+  name: March 2022
+  year: 2022
+- Cycle 256: 
+  id: 256
+  name: April 2022
+  year: 2022
+- Cycle 257: 
+  id: 257
+  name: May 2022
+  year: 2022
+- Cycle 258: 
+  id: 258
+  name: June 2022
+  year: 2022
+- Cycle 259: 
+  id: 259
+  name: July 2022
+  year: 2022
+- Cycle 260: 
+  id: 260
+  name: August 2022
+  year: 2022
+- Cycle 261: 
+  id: 261
+  name: September 2022
+  year: 2022
+- Cycle 262: 
+  id: 262
+  name: October 2022
+  year: 2022
+- Cycle 263: 
+  id: 263
+  name: November 2022
+  year: 2022
+- Cycle 264: 
+  id: 264
+  name: December 2022
+  year: 2022
+- Cycle 265: 
+  id: 265
+  name: January 2023
+  year: 2023
+- Cycle 266: 
+  id: 266
+  name: February 2023
+  year: 2023
+- Cycle 267: 
+  id: 267
+  name: March 2023
+  year: 2023
+- Cycle 268: 
+  id: 268
+  name: April 2023
+  year: 2023
+- Cycle 269: 
+  id: 269
+  name: May 2023
+  year: 2023
+- Cycle 270: 
+  id: 270
+  name: June 2023
+  year: 2023
+- Cycle 271: 
+  id: 271
+  name: July 2023
+  year: 2023
+- Cycle 272: 
+  id: 272
+  name: August 2023
+  year: 2023
+- Cycle 273: 
+  id: 273
+  name: September 2023
+  year: 2023
+- Cycle 274: 
+  id: 274
+  name: October 2023
+  year: 2023
+- Cycle 275: 
+  id: 275
+  name: November 2023
+  year: 2023
+- Cycle 276: 
+  id: 276
+  name: December 2023
+  year: 2023
+- Cycle 277: 
+  id: 277
+  name: January 2024
+  year: 2024
+- Cycle 278: 
+  id: 278
+  name: February 2024
+  year: 2024
+- Cycle 279: 
+  id: 279
+  name: March 2024
+  year: 2024
+- Cycle 280: 
+  id: 280
+  name: April 2024
+  year: 2024
+- Cycle 281: 
+  id: 281
+  name: May 2024
+  year: 2024
+- Cycle 282: 
+  id: 282
+  name: June 2024
+  year: 2024
+- Cycle 283: 
+  id: 283
+  name: July 2024
+  year: 2024
+- Cycle 284: 
+  id: 284
+  name: August 2024
+  year: 2024
+- Cycle 285: 
+  id: 285
+  name: September 2024
+  year: 2024
+- Cycle 286: 
+  id: 286
+  name: October 2024
+  year: 2024
+- Cycle 287: 
+  id: 287
+  name: November 2024
+  year: 2024
+- Cycle 288: 
+  id: 288
+  name: December 2024
+  year: 2024
+- Cycle 289: 
+  id: 289
+  name: January 2025
+  year: 2025
+- Cycle 290: 
+  id: 290
+  name: February 2025
+  year: 2025
+- Cycle 291: 
+  id: 291
+  name: March 2025
+  year: 2025
+- Cycle 292: 
+  id: 292
+  name: April 2025
+  year: 2025
+- Cycle 293: 
+  id: 293
+  name: May 2025
+  year: 2025
+- Cycle 294: 
+  id: 294
+  name: June 2025
+  year: 2025
+- Cycle 295: 
+  id: 295
+  name: July 2025
+  year: 2025
+- Cycle 296: 
+  id: 296
+  name: August 2025
+  year: 2025
+- Cycle 297: 
+  id: 297
+  name: September 2025
+  year: 2025
+- Cycle 298: 
+  id: 298
+  name: October 2025
+  year: 2025
+- Cycle 299: 
+  id: 299
+  name: November 2025
+  year: 2025
+- Cycle 300: 
+  id: 300
+  name: December 2025
+  year: 2025
+- Cycle 301: 
+  id: 301
+  name: January 2026
+  year: 2026
+- Cycle 302: 
+  id: 302
+  name: February 2026
+  year: 2026
+- Cycle 303: 
+  id: 303
+  name: March 2026
+  year: 2026
+- Cycle 304: 
+  id: 304
+  name: April 2026
+  year: 2026
+- Cycle 305: 
+  id: 305
+  name: May 2026
+  year: 2026
+- Cycle 306: 
+  id: 306
+  name: June 2026
+  year: 2026
+- Cycle 307: 
+  id: 307
+  name: July 2026
+  year: 2026
+- Cycle 308: 
+  id: 308
+  name: August 2026
+  year: 2026
+- Cycle 309: 
+  id: 309
+  name: September 2026
+  year: 2026
+- Cycle 310: 
+  id: 310
+  name: October 2026
+  year: 2026
+- Cycle 311: 
+  id: 311
+  name: November 2026
+  year: 2026
+- Cycle 312: 
+  id: 312
+  name: December 2026
+  year: 2026
+- Cycle 313: 
+  id: 313
+  name: January 2027
+  year: 2027
+- Cycle 314: 
+  id: 314
+  name: February 2027
+  year: 2027
+- Cycle 315: 
+  id: 315
+  name: March 2027
+  year: 2027
+- Cycle 316: 
+  id: 316
+  name: April 2027
+  year: 2027
+- Cycle 317: 
+  id: 317
+  name: May 2027
+  year: 2027
+- Cycle 318: 
+  id: 318
+  name: June 2027
+  year: 2027
+- Cycle 319: 
+  id: 319
+  name: July 2027
+  year: 2027
+- Cycle 320: 
+  id: 320
+  name: August 2027
+  year: 2027
+- Cycle 321: 
+  id: 321
+  name: September 2027
+  year: 2027
+- Cycle 322: 
+  id: 322
+  name: October 2027
+  year: 2027
+- Cycle 323: 
+  id: 323
+  name: November 2027
+  year: 2027
+- Cycle 324: 
+  id: 324
+  name: December 2027
+  year: 2027
+- Cycle 325: 
+  id: 325
+  name: January 2028
+  year: 2028
+- Cycle 326: 
+  id: 326
+  name: February 2028
+  year: 2028
+- Cycle 327: 
+  id: 327
+  name: March 2028
+  year: 2028
+- Cycle 328: 
+  id: 328
+  name: April 2028
+  year: 2028
+- Cycle 329: 
+  id: 329
+  name: May 2028
+  year: 2028
+- Cycle 330: 
+  id: 330
+  name: June 2028
+  year: 2028
+- Cycle 331: 
+  id: 331
+  name: July 2028
+  year: 2028
+- Cycle 332: 
+  id: 332
+  name: August 2028
+  year: 2028
+- Cycle 333: 
+  id: 333
+  name: September 2028
+  year: 2028
+- Cycle 334: 
+  id: 334
+  name: October 2028
+  year: 2028
+- Cycle 335: 
+  id: 335
+  name: November 2028
+  year: 2028
+- Cycle 336: 
+  id: 336
+  name: December 2028
+  year: 2028
+- Cycle 337: 
+  id: 337
+  name: January 2029
+  year: 2029
+- Cycle 338: 
+  id: 338
+  name: February 2029
+  year: 2029
+- Cycle 339: 
+  id: 339
+  name: March 2029
+  year: 2029
+- Cycle 340: 
+  id: 340
+  name: April 2029
+  year: 2029
+- Cycle 341: 
+  id: 341
+  name: May 2029
+  year: 2029
+- Cycle 342: 
+  id: 342
+  name: June 2029
+  year: 2029
+- Cycle 343: 
+  id: 343
+  name: July 2029
+  year: 2029
+- Cycle 344: 
+  id: 344
+  name: August 2029
+  year: 2029
+- Cycle 345: 
+  id: 345
+  name: September 2029
+  year: 2029
+- Cycle 346: 
+  id: 346
+  name: October 2029
+  year: 2029
+- Cycle 347: 
+  id: 347
+  name: November 2029
+  year: 2029
+- Cycle 348: 
+  id: 348
+  name: December 2029
+  year: 2029
+- Cycle 349: 
+  id: 349
+  name: January 2030
+  year: 2030
+- Cycle 350: 
+  id: 350
+  name: February 2030
+  year: 2030
+- Cycle 351: 
+  id: 351
+  name: March 2030
+  year: 2030
+- Cycle 352: 
+  id: 352
+  name: April 2030
+  year: 2030
+- Cycle 353: 
+  id: 353
+  name: May 2030
+  year: 2030
+- Cycle 354: 
+  id: 354
+  name: June 2030
+  year: 2030
+- Cycle 355: 
+  id: 355
+  name: July 2030
+  year: 2030
+- Cycle 356: 
+  id: 356
+  name: August 2030
+  year: 2030
+- Cycle 357: 
+  id: 357
+  name: September 2030
+  year: 2030
+- Cycle 358: 
+  id: 358
+  name: October 2030
+  year: 2030
+- Cycle 359: 
+  id: 359
+  name: November 2030
+  year: 2030
+- Cycle 360: 
+  id: 360
+  name: December 2030
+  year: 2030
+- Cycle 361: 
+  id: 361
+  name: January 2031
+  year: 2031
+- Cycle 362: 
+  id: 362
+  name: February 2031
+  year: 2031
+- Cycle 363: 
+  id: 363
+  name: March 2031
+  year: 2031
+- Cycle 364: 
+  id: 364
+  name: April 2031
+  year: 2031
+- Cycle 365: 
+  id: 365
+  name: May 2031
+  year: 2031
+- Cycle 366: 
+  id: 366
+  name: June 2031
+  year: 2031
+- Cycle 367: 
+  id: 367
+  name: July 2031
+  year: 2031
+- Cycle 368: 
+  id: 368
+  name: August 2031
+  year: 2031
+- Cycle 369: 
+  id: 369
+  name: September 2031
+  year: 2031
+- Cycle 370: 
+  id: 370
+  name: October 2031
+  year: 2031
+- Cycle 371: 
+  id: 371
+  name: November 2031
+  year: 2031
+- Cycle 372: 
+  id: 372
+  name: December 2031
+  year: 2031
+- Cycle 373: 
+  id: 373
+  name: January 2032
+  year: 2032
+- Cycle 374: 
+  id: 374
+  name: February 2032
+  year: 2032
+- Cycle 375: 
+  id: 375
+  name: March 2032
+  year: 2032
+- Cycle 376: 
+  id: 376
+  name: April 2032
+  year: 2032
+- Cycle 377: 
+  id: 377
+  name: May 2032
+  year: 2032
+- Cycle 378: 
+  id: 378
+  name: June 2032
+  year: 2032
+- Cycle 379: 
+  id: 379
+  name: July 2032
+  year: 2032
+- Cycle 380: 
+  id: 380
+  name: August 2032
+  year: 2032
+- Cycle 381: 
+  id: 381
+  name: September 2032
+  year: 2032
+- Cycle 382: 
+  id: 382
+  name: October 2032
+  year: 2032
+- Cycle 383: 
+  id: 383
+  name: November 2032
+  year: 2032
+- Cycle 384: 
+  id: 384
+  name: December 2032
+  year: 2032
+- Cycle 385: 
+  id: 385
+  name: January 2033
+  year: 2033
+- Cycle 386: 
+  id: 386
+  name: February 2033
+  year: 2033
+- Cycle 387: 
+  id: 387
+  name: March 2033
+  year: 2033
+- Cycle 388: 
+  id: 388
+  name: April 2033
+  year: 2033
+- Cycle 389: 
+  id: 389
+  name: May 2033
+  year: 2033
+- Cycle 390: 
+  id: 390
+  name: June 2033
+  year: 2033
+- Cycle 391: 
+  id: 391
+  name: July 2033
+  year: 2033
+- Cycle 392: 
+  id: 392
+  name: August 2033
+  year: 2033
+- Cycle 393: 
+  id: 393
+  name: September 2033
+  year: 2033
+- Cycle 394: 
+  id: 394
+  name: October 2033
+  year: 2033
+- Cycle 395: 
+  id: 395
+  name: November 2033
+  year: 2033
+- Cycle 396: 
+  id: 396
+  name: December 2033
+  year: 2033
+- Cycle 397: 
+  id: 397
+  name: January 2034
+  year: 2034
+- Cycle 398: 
+  id: 398
+  name: February 2034
+  year: 2034
+- Cycle 399: 
+  id: 399
+  name: March 2034
+  year: 2034
+- Cycle 400: 
+  id: 400
+  name: April 2034
+  year: 2034
+- Cycle 401: 
+  id: 401
+  name: May 2034
+  year: 2034
+- Cycle 402: 
+  id: 402
+  name: June 2034
+  year: 2034
+- Cycle 403: 
+  id: 403
+  name: July 2034
+  year: 2034
+- Cycle 404: 
+  id: 404
+  name: August 2034
+  year: 2034
+- Cycle 405: 
+  id: 405
+  name: September 2034
+  year: 2034
+- Cycle 406: 
+  id: 406
+  name: October 2034
+  year: 2034
+- Cycle 407: 
+  id: 407
+  name: November 2034
+  year: 2034
+- Cycle 408: 
+  id: 408
+  name: December 2034
+  year: 2034
+- Cycle 409: 
+  id: 409
+  name: January 2035
+  year: 2035
+- Cycle 410: 
+  id: 410
+  name: February 2035
+  year: 2035
+- Cycle 411: 
+  id: 411
+  name: March 2035
+  year: 2035
+- Cycle 412: 
+  id: 412
+  name: April 2035
+  year: 2035
+- Cycle 413: 
+  id: 413
+  name: May 2035
+  year: 2035
+- Cycle 414: 
+  id: 414
+  name: June 2035
+  year: 2035
+- Cycle 415: 
+  id: 415
+  name: July 2035
+  year: 2035
+- Cycle 416: 
+  id: 416
+  name: August 2035
+  year: 2035
+- Cycle 417: 
+  id: 417
+  name: September 2035
+  year: 2035
+- Cycle 418: 
+  id: 418
+  name: October 2035
+  year: 2035
+- Cycle 419: 
+  id: 419
+  name: November 2035
+  year: 2035
+- Cycle 420: 
+  id: 420
+  name: December 2035
+  year: 2035
+- Cycle 421: 
+  id: 421
+  name: January 2036
+  year: 2036
+- Cycle 422: 
+  id: 422
+  name: February 2036
+  year: 2036
+- Cycle 423: 
+  id: 423
+  name: March 2036
+  year: 2036
+- Cycle 424: 
+  id: 424
+  name: April 2036
+  year: 2036
+- Cycle 425: 
+  id: 425
+  name: May 2036
+  year: 2036
+- Cycle 426: 
+  id: 426
+  name: June 2036
+  year: 2036
+- Cycle 427: 
+  id: 427
+  name: July 2036
+  year: 2036
+- Cycle 428: 
+  id: 428
+  name: August 2036
+  year: 2036
+- Cycle 429: 
+  id: 429
+  name: September 2036
+  year: 2036
+- Cycle 430: 
+  id: 430
+  name: October 2036
+  year: 2036
+- Cycle 431: 
+  id: 431
+  name: November 2036
+  year: 2036
+- Cycle 432: 
+  id: 432
+  name: December 2036
+  year: 2036
+- Cycle 433: 
+  id: 433
+  name: January 2037
+  year: 2037
+- Cycle 434: 
+  id: 434
+  name: February 2037
+  year: 2037
+- Cycle 435: 
+  id: 435
+  name: March 2037
+  year: 2037
+- Cycle 436: 
+  id: 436
+  name: April 2037
+  year: 2037
+- Cycle 437: 
+  id: 437
+  name: May 2037
+  year: 2037
+- Cycle 438: 
+  id: 438
+  name: June 2037
+  year: 2037
+- Cycle 439: 
+  id: 439
+  name: July 2037
+  year: 2037
+- Cycle 440: 
+  id: 440
+  name: August 2037
+  year: 2037
+- Cycle 441: 
+  id: 441
+  name: September 2037
+  year: 2037
+- Cycle 442: 
+  id: 442
+  name: October 2037
+  year: 2037
+- Cycle 443: 
+  id: 443
+  name: November 2037
+  year: 2037
+- Cycle 444: 
+  id: 444
+  name: December 2037
+  year: 2037
+- Cycle 445: 
+  id: 445
+  name: January 2038
+  year: 2038
+- Cycle 446: 
+  id: 446
+  name: February 2038
+  year: 2038
+- Cycle 447: 
+  id: 447
+  name: March 2038
+  year: 2038
+- Cycle 448: 
+  id: 448
+  name: April 2038
+  year: 2038
+- Cycle 449: 
+  id: 449
+  name: May 2038
+  year: 2038
+- Cycle 450: 
+  id: 450
+  name: June 2038
+  year: 2038
+- Cycle 451: 
+  id: 451
+  name: July 2038
+  year: 2038
+- Cycle 452: 
+  id: 452
+  name: August 2038
+  year: 2038
+- Cycle 453: 
+  id: 453
+  name: September 2038
+  year: 2038
+- Cycle 454: 
+  id: 454
+  name: October 2038
+  year: 2038
+- Cycle 455: 
+  id: 455
+  name: November 2038
+  year: 2038
+- Cycle 456: 
+  id: 456
+  name: December 2038
+  year: 2038
+- Cycle 457: 
+  id: 457
+  name: January 2039
+  year: 2039
+- Cycle 458: 
+  id: 458
+  name: February 2039
+  year: 2039
+- Cycle 459: 
+  id: 459
+  name: March 2039
+  year: 2039
+- Cycle 460: 
+  id: 460
+  name: April 2039
+  year: 2039
+- Cycle 461: 
+  id: 461
+  name: May 2039
+  year: 2039
+- Cycle 462: 
+  id: 462
+  name: June 2039
+  year: 2039
+- Cycle 463: 
+  id: 463
+  name: July 2039
+  year: 2039
+- Cycle 464: 
+  id: 464
+  name: August 2039
+  year: 2039
+- Cycle 465: 
+  id: 465
+  name: September 2039
+  year: 2039
+- Cycle 466: 
+  id: 466
+  name: October 2039
+  year: 2039
+- Cycle 467: 
+  id: 467
+  name: November 2039
+  year: 2039
+- Cycle 468: 
+  id: 468
+  name: December 2039
+  year: 2039
+- Cycle 469: 
+  id: 469
+  name: January 2040
+  year: 2040
+- Cycle 470: 
+  id: 470
+  name: February 2040
+  year: 2040
+- Cycle 471: 
+  id: 471
+  name: March 2040
+  year: 2040
+- Cycle 472: 
+  id: 472
+  name: April 2040
+  year: 2040
+- Cycle 473: 
+  id: 473
+  name: May 2040
+  year: 2040
+- Cycle 474: 
+  id: 474
+  name: June 2040
+  year: 2040
+- Cycle 475: 
+  id: 475
+  name: July 2040
+  year: 2040
+- Cycle 476: 
+  id: 476
+  name: August 2040
+  year: 2040
+- Cycle 477: 
+  id: 477
+  name: September 2040
+  year: 2040
+- Cycle 478: 
+  id: 478
+  name: October 2040
+  year: 2040
+- Cycle 479: 
+  id: 479
+  name: November 2040
+  year: 2040
+- Cycle 480: 
+  id: 480
+  name: December 2040
+  year: 2040
+- Cycle 481: 
+  id: 481
+  name: January 2041
+  year: 2041
+- Cycle 482: 
+  id: 482
+  name: February 2041
+  year: 2041
+- Cycle 483: 
+  id: 483
+  name: March 2041
+  year: 2041
+- Cycle 484: 
+  id: 484
+  name: April 2041
+  year: 2041
+- Cycle 485: 
+  id: 485
+  name: May 2041
+  year: 2041
+- Cycle 486: 
+  id: 486
+  name: June 2041
+  year: 2041
+- Cycle 487: 
+  id: 487
+  name: July 2041
+  year: 2041
+- Cycle 488: 
+  id: 488
+  name: August 2041
+  year: 2041
+- Cycle 489: 
+  id: 489
+  name: September 2041
+  year: 2041
+- Cycle 490: 
+  id: 490
+  name: October 2041
+  year: 2041
+- Cycle 491: 
+  id: 491
+  name: November 2041
+  year: 2041
+- Cycle 492: 
+  id: 492
+  name: December 2041
+  year: 2041
+- Cycle 493: 
+  id: 493
+  name: January 2042
+  year: 2042
+- Cycle 494: 
+  id: 494
+  name: February 2042
+  year: 2042
+- Cycle 495: 
+  id: 495
+  name: March 2042
+  year: 2042
+- Cycle 496: 
+  id: 496
+  name: April 2042
+  year: 2042
+- Cycle 497: 
+  id: 497
+  name: May 2042
+  year: 2042
+- Cycle 498: 
+  id: 498
+  name: June 2042
+  year: 2042
+- Cycle 499: 
+  id: 499
+  name: July 2042
+  year: 2042
+- Cycle 500: 
+  id: 500
+  name: August 2042
+  year: 2042
+- Cycle 501: 
+  id: 501
+  name: September 2042
+  year: 2042
+- Cycle 502: 
+  id: 502
+  name: October 2042
+  year: 2042
+- Cycle 503: 
+  id: 503
+  name: November 2042
+  year: 2042
+- Cycle 504: 
+  id: 504
+  name: December 2042
+  year: 2042
+- Cycle 505: 
+  id: 505
+  name: January 2043
+  year: 2043
+- Cycle 506: 
+  id: 506
+  name: February 2043
+  year: 2043
+- Cycle 507: 
+  id: 507
+  name: March 2043
+  year: 2043
+- Cycle 508: 
+  id: 508
+  name: April 2043
+  year: 2043
+- Cycle 509: 
+  id: 509
+  name: May 2043
+  year: 2043
+- Cycle 510: 
+  id: 510
+  name: June 2043
+  year: 2043
+- Cycle 511: 
+  id: 511
+  name: July 2043
+  year: 2043
+- Cycle 512: 
+  id: 512
+  name: August 2043
+  year: 2043
+- Cycle 513: 
+  id: 513
+  name: September 2043
+  year: 2043
+- Cycle 514: 
+  id: 514
+  name: October 2043
+  year: 2043
+- Cycle 515: 
+  id: 515
+  name: November 2043
+  year: 2043
+- Cycle 516: 
+  id: 516
+  name: December 2043
+  year: 2043
+- Cycle 517: 
+  id: 517
+  name: January 2044
+  year: 2044
+- Cycle 518: 
+  id: 518
+  name: February 2044
+  year: 2044
+- Cycle 519: 
+  id: 519
+  name: March 2044
+  year: 2044
+- Cycle 520: 
+  id: 520
+  name: April 2044
+  year: 2044
+- Cycle 521: 
+  id: 521
+  name: May 2044
+  year: 2044
+- Cycle 522: 
+  id: 522
+  name: June 2044
+  year: 2044
+- Cycle 523: 
+  id: 523
+  name: July 2044
+  year: 2044
+- Cycle 524: 
+  id: 524
+  name: August 2044
+  year: 2044
+- Cycle 525: 
+  id: 525
+  name: September 2044
+  year: 2044
+- Cycle 526: 
+  id: 526
+  name: October 2044
+  year: 2044
+- Cycle 527: 
+  id: 527
+  name: November 2044
+  year: 2044
+- Cycle 528: 
+  id: 528
+  name: December 2044
+  year: 2044
+- Cycle 529: 
+  id: 529
+  name: January 2045
+  year: 2045
+- Cycle 530: 
+  id: 530
+  name: February 2045
+  year: 2045
+- Cycle 531: 
+  id: 531
+  name: March 2045
+  year: 2045
+- Cycle 532: 
+  id: 532
+  name: April 2045
+  year: 2045
+- Cycle 533: 
+  id: 533
+  name: May 2045
+  year: 2045
+- Cycle 534: 
+  id: 534
+  name: June 2045
+  year: 2045
+- Cycle 535: 
+  id: 535
+  name: July 2045
+  year: 2045
+- Cycle 536: 
+  id: 536
+  name: August 2045
+  year: 2045
+- Cycle 537: 
+  id: 537
+  name: September 2045
+  year: 2045
+- Cycle 538: 
+  id: 538
+  name: October 2045
+  year: 2045
+- Cycle 539: 
+  id: 539
+  name: November 2045
+  year: 2045
+- Cycle 540: 
+  id: 540
+  name: December 2045
+  year: 2045
+- Cycle 541: 
+  id: 541
+  name: January 2046
+  year: 2046
+- Cycle 542: 
+  id: 542
+  name: February 2046
+  year: 2046
+- Cycle 543: 
+  id: 543
+  name: March 2046
+  year: 2046
+- Cycle 544: 
+  id: 544
+  name: April 2046
+  year: 2046
+- Cycle 545: 
+  id: 545
+  name: May 2046
+  year: 2046
+- Cycle 546: 
+  id: 546
+  name: June 2046
+  year: 2046
+- Cycle 547: 
+  id: 547
+  name: July 2046
+  year: 2046
+- Cycle 548: 
+  id: 548
+  name: August 2046
+  year: 2046
+- Cycle 549: 
+  id: 549
+  name: September 2046
+  year: 2046
+- Cycle 550: 
+  id: 550
+  name: October 2046
+  year: 2046
+- Cycle 551: 
+  id: 551
+  name: November 2046
+  year: 2046
+- Cycle 552: 
+  id: 552
+  name: December 2046
+  year: 2046
+- Cycle 553: 
+  id: 553
+  name: January 2047
+  year: 2047
+- Cycle 554: 
+  id: 554
+  name: February 2047
+  year: 2047
+- Cycle 555: 
+  id: 555
+  name: March 2047
+  year: 2047
+- Cycle 556: 
+  id: 556
+  name: April 2047
+  year: 2047
+- Cycle 557: 
+  id: 557
+  name: May 2047
+  year: 2047
+- Cycle 558: 
+  id: 558
+  name: June 2047
+  year: 2047
+- Cycle 559: 
+  id: 559
+  name: July 2047
+  year: 2047
+- Cycle 560: 
+  id: 560
+  name: August 2047
+  year: 2047
+- Cycle 561: 
+  id: 561
+  name: September 2047
+  year: 2047
+- Cycle 562: 
+  id: 562
+  name: October 2047
+  year: 2047
+- Cycle 563: 
+  id: 563
+  name: November 2047
+  year: 2047
+- Cycle 564: 
+  id: 564
+  name: December 2047
+  year: 2047
+- Cycle 565: 
+  id: 565
+  name: January 2048
+  year: 2048
+- Cycle 566: 
+  id: 566
+  name: February 2048
+  year: 2048
+- Cycle 567: 
+  id: 567
+  name: March 2048
+  year: 2048
+- Cycle 568: 
+  id: 568
+  name: April 2048
+  year: 2048
+- Cycle 569: 
+  id: 569
+  name: May 2048
+  year: 2048
+- Cycle 570: 
+  id: 570
+  name: June 2048
+  year: 2048
+- Cycle 571: 
+  id: 571
+  name: July 2048
+  year: 2048
+- Cycle 572: 
+  id: 572
+  name: August 2048
+  year: 2048
+- Cycle 573: 
+  id: 573
+  name: September 2048
+  year: 2048
+- Cycle 574: 
+  id: 574
+  name: October 2048
+  year: 2048
+- Cycle 575: 
+  id: 575
+  name: November 2048
+  year: 2048
+- Cycle 576: 
+  id: 576
+  name: December 2048
+  year: 2048
+- Cycle 577: 
+  id: 577
+  name: January 2049
+  year: 2049
+- Cycle 578: 
+  id: 578
+  name: February 2049
+  year: 2049
+- Cycle 579: 
+  id: 579
+  name: March 2049
+  year: 2049
+- Cycle 580: 
+  id: 580
+  name: April 2049
+  year: 2049
+- Cycle 581: 
+  id: 581
+  name: May 2049
+  year: 2049
+- Cycle 582: 
+  id: 582
+  name: June 2049
+  year: 2049
+- Cycle 583: 
+  id: 583
+  name: July 2049
+  year: 2049
+- Cycle 584: 
+  id: 584
+  name: August 2049
+  year: 2049
+- Cycle 585: 
+  id: 585
+  name: September 2049
+  year: 2049
+- Cycle 586: 
+  id: 586
+  name: October 2049
+  year: 2049
+- Cycle 587: 
+  id: 587
+  name: November 2049
+  year: 2049
+- Cycle 588: 
+  id: 588
+  name: December 2049
+  year: 2049
+- Cycle 589: 
+  id: 589
+  name: January 2050
+  year: 2050
+- Cycle 590: 
+  id: 590
+  name: February 2050
+  year: 2050
+- Cycle 591: 
+  id: 591
+  name: March 2050
+  year: 2050
+- Cycle 592: 
+  id: 592
+  name: April 2050
+  year: 2050
+- Cycle 593: 
+  id: 593
+  name: May 2050
+  year: 2050
+- Cycle 594: 
+  id: 594
+  name: June 2050
+  year: 2050
+- Cycle 595: 
+  id: 595
+  name: July 2050
+  year: 2050
+- Cycle 596: 
+  id: 596
+  name: August 2050
+  year: 2050
+- Cycle 597: 
+  id: 597
+  name: September 2050
+  year: 2050
+- Cycle 598: 
+  id: 598
+  name: October 2050
+  year: 2050
+- Cycle 599: 
+  id: 599
+  name: November 2050
+  year: 2050
+- Cycle 600: 
+  id: 600
+  name: December 2050
+  year: 2050
+- Cycle 601: 
+  id: 601
+  name: January 2051
+  year: 2051
+- Cycle 602: 
+  id: 602
+  name: February 2051
+  year: 2051
+- Cycle 603: 
+  id: 603
+  name: March 2051
+  year: 2051
+- Cycle 604: 
+  id: 604
+  name: April 2051
+  year: 2051
+- Cycle 605: 
+  id: 605
+  name: May 2051
+  year: 2051
+- Cycle 606: 
+  id: 606
+  name: June 2051
+  year: 2051
+- Cycle 607: 
+  id: 607
+  name: July 2051
+  year: 2051
+- Cycle 608: 
+  id: 608
+  name: August 2051
+  year: 2051
+- Cycle 609: 
+  id: 609
+  name: September 2051
+  year: 2051
+- Cycle 610: 
+  id: 610
+  name: October 2051
+  year: 2051
+- Cycle 611: 
+  id: 611
+  name: November 2051
+  year: 2051
+- Cycle 612: 
+  id: 612
+  name: December 2051
+  year: 2051
+- Cycle 613: 
+  id: 613
+  name: January 2052
+  year: 2052
+- Cycle 614: 
+  id: 614
+  name: February 2052
+  year: 2052
+- Cycle 615: 
+  id: 615
+  name: March 2052
+  year: 2052
+- Cycle 616: 
+  id: 616
+  name: April 2052
+  year: 2052
+- Cycle 617: 
+  id: 617
+  name: May 2052
+  year: 2052
+- Cycle 618: 
+  id: 618
+  name: June 2052
+  year: 2052
+- Cycle 619: 
+  id: 619
+  name: July 2052
+  year: 2052
+- Cycle 620: 
+  id: 620
+  name: August 2052
+  year: 2052
+- Cycle 621: 
+  id: 621
+  name: September 2052
+  year: 2052
+- Cycle 622: 
+  id: 622
+  name: October 2052
+  year: 2052
+- Cycle 623: 
+  id: 623
+  name: November 2052
+  year: 2052
+- Cycle 624: 
+  id: 624
+  name: December 2052
+  year: 2052
+- Cycle 625: 
+  id: 625
+  name: January 2053
+  year: 2053
+- Cycle 626: 
+  id: 626
+  name: February 2053
+  year: 2053
+- Cycle 627: 
+  id: 627
+  name: March 2053
+  year: 2053
+- Cycle 628: 
+  id: 628
+  name: April 2053
+  year: 2053
+- Cycle 629: 
+  id: 629
+  name: May 2053
+  year: 2053
+- Cycle 630: 
+  id: 630
+  name: June 2053
+  year: 2053
+- Cycle 631: 
+  id: 631
+  name: July 2053
+  year: 2053
+- Cycle 632: 
+  id: 632
+  name: August 2053
+  year: 2053
+- Cycle 633: 
+  id: 633
+  name: September 2053
+  year: 2053
+- Cycle 634: 
+  id: 634
+  name: October 2053
+  year: 2053
+- Cycle 635: 
+  id: 635
+  name: November 2053
+  year: 2053
+- Cycle 636: 
+  id: 636
+  name: December 2053
+  year: 2053
+- Cycle 637: 
+  id: 637
+  name: January 2054
+  year: 2054
+- Cycle 638: 
+  id: 638
+  name: February 2054
+  year: 2054
+- Cycle 639: 
+  id: 639
+  name: March 2054
+  year: 2054
+- Cycle 640: 
+  id: 640
+  name: April 2054
+  year: 2054
+- Cycle 641: 
+  id: 641
+  name: May 2054
+  year: 2054
+- Cycle 642: 
+  id: 642
+  name: June 2054
+  year: 2054
+- Cycle 643: 
+  id: 643
+  name: July 2054
+  year: 2054
+- Cycle 644: 
+  id: 644
+  name: August 2054
+  year: 2054
+- Cycle 645: 
+  id: 645
+  name: September 2054
+  year: 2054
+- Cycle 646: 
+  id: 646
+  name: October 2054
+  year: 2054
+- Cycle 647: 
+  id: 647
+  name: November 2054
+  year: 2054
+- Cycle 648: 
+  id: 648
+  name: December 2054
+  year: 2054
+- Cycle 649: 
+  id: 649
+  name: January 2055
+  year: 2055
+- Cycle 650: 
+  id: 650
+  name: February 2055
+  year: 2055
+- Cycle 651: 
+  id: 651
+  name: March 2055
+  year: 2055
+- Cycle 652: 
+  id: 652
+  name: April 2055
+  year: 2055
+- Cycle 653: 
+  id: 653
+  name: May 2055
+  year: 2055
+- Cycle 654: 
+  id: 654
+  name: June 2055
+  year: 2055
+- Cycle 655: 
+  id: 655
+  name: July 2055
+  year: 2055
+- Cycle 656: 
+  id: 656
+  name: August 2055
+  year: 2055
+- Cycle 657: 
+  id: 657
+  name: September 2055
+  year: 2055
+- Cycle 658: 
+  id: 658
+  name: October 2055
+  year: 2055
+- Cycle 659: 
+  id: 659
+  name: November 2055
+  year: 2055
+- Cycle 660: 
+  id: 660
+  name: December 2055
+  year: 2055
+- Cycle 661: 
+  id: 661
+  name: January 2056
+  year: 2056
+- Cycle 662: 
+  id: 662
+  name: February 2056
+  year: 2056
+- Cycle 663: 
+  id: 663
+  name: March 2056
+  year: 2056
+- Cycle 664: 
+  id: 664
+  name: April 2056
+  year: 2056
+- Cycle 665: 
+  id: 665
+  name: May 2056
+  year: 2056
+- Cycle 666: 
+  id: 666
+  name: June 2056
+  year: 2056
+- Cycle 667: 
+  id: 667
+  name: July 2056
+  year: 2056
+- Cycle 668: 
+  id: 668
+  name: August 2056
+  year: 2056
+- Cycle 669: 
+  id: 669
+  name: September 2056
+  year: 2056
+- Cycle 670: 
+  id: 670
+  name: October 2056
+  year: 2056
+- Cycle 671: 
+  id: 671
+  name: November 2056
+  year: 2056
+- Cycle 672: 
+  id: 672
+  name: December 2056
+  year: 2056
+- Cycle 673: 
+  id: 673
+  name: January 2057
+  year: 2057
+- Cycle 674: 
+  id: 674
+  name: February 2057
+  year: 2057
+- Cycle 675: 
+  id: 675
+  name: March 2057
+  year: 2057
+- Cycle 676: 
+  id: 676
+  name: April 2057
+  year: 2057
+- Cycle 677: 
+  id: 677
+  name: May 2057
+  year: 2057
+- Cycle 678: 
+  id: 678
+  name: June 2057
+  year: 2057
+- Cycle 679: 
+  id: 679
+  name: July 2057
+  year: 2057
+- Cycle 680: 
+  id: 680
+  name: August 2057
+  year: 2057
+- Cycle 681: 
+  id: 681
+  name: September 2057
+  year: 2057
+- Cycle 682: 
+  id: 682
+  name: October 2057
+  year: 2057
+- Cycle 683: 
+  id: 683
+  name: November 2057
+  year: 2057
+- Cycle 684: 
+  id: 684
+  name: December 2057
+  year: 2057
+- Cycle 685: 
+  id: 685
+  name: January 2058
+  year: 2058
+- Cycle 686: 
+  id: 686
+  name: February 2058
+  year: 2058
+- Cycle 687: 
+  id: 687
+  name: March 2058
+  year: 2058
+- Cycle 688: 
+  id: 688
+  name: April 2058
+  year: 2058
+- Cycle 689: 
+  id: 689
+  name: May 2058
+  year: 2058
+- Cycle 690: 
+  id: 690
+  name: June 2058
+  year: 2058
+- Cycle 691: 
+  id: 691
+  name: July 2058
+  year: 2058
+- Cycle 692: 
+  id: 692
+  name: August 2058
+  year: 2058
+- Cycle 693: 
+  id: 693
+  name: September 2058
+  year: 2058
+- Cycle 694: 
+  id: 694
+  name: October 2058
+  year: 2058
+- Cycle 695: 
+  id: 695
+  name: November 2058
+  year: 2058
+- Cycle 696: 
+  id: 696
+  name: December 2058
+  year: 2058
+- Cycle 697: 
+  id: 697
+  name: January 2059
+  year: 2059
+- Cycle 698: 
+  id: 698
+  name: February 2059
+  year: 2059
+- Cycle 699: 
+  id: 699
+  name: March 2059
+  year: 2059
+- Cycle 700: 
+  id: 700
+  name: April 2059
+  year: 2059
+- Cycle 701: 
+  id: 701
+  name: May 2059
+  year: 2059
+- Cycle 702: 
+  id: 702
+  name: June 2059
+  year: 2059
+- Cycle 703: 
+  id: 703
+  name: July 2059
+  year: 2059
+- Cycle 704: 
+  id: 704
+  name: August 2059
+  year: 2059
+- Cycle 705: 
+  id: 705
+  name: September 2059
+  year: 2059
+- Cycle 706: 
+  id: 706
+  name: October 2059
+  year: 2059
+- Cycle 707: 
+  id: 707
+  name: November 2059
+  year: 2059
+- Cycle 708: 
+  id: 708
+  name: December 2059
+  year: 2059
+- Cycle 709: 
+  id: 709
+  name: January 2060
+  year: 2060
+- Cycle 710: 
+  id: 710
+  name: February 2060
+  year: 2060
+- Cycle 711: 
+  id: 711
+  name: March 2060
+  year: 2060
+- Cycle 712: 
+  id: 712
+  name: April 2060
+  year: 2060
+- Cycle 713: 
+  id: 713
+  name: May 2060
+  year: 2060
+- Cycle 714: 
+  id: 714
+  name: June 2060
+  year: 2060
+- Cycle 715: 
+  id: 715
+  name: July 2060
+  year: 2060
+- Cycle 716: 
+  id: 716
+  name: August 2060
+  year: 2060
+- Cycle 717: 
+  id: 717
+  name: September 2060
+  year: 2060
+- Cycle 718: 
+  id: 718
+  name: October 2060
+  year: 2060
+- Cycle 719: 
+  id: 719
+  name: November 2060
+  year: 2060
+- Cycle 720: 
+  id: 720
+  name: December 2060
+  year: 2060
+- Cycle 721: 
+  id: 721
+  name: January 2061
+  year: 2061
+- Cycle 722: 
+  id: 722
+  name: February 2061
+  year: 2061
+- Cycle 723: 
+  id: 723
+  name: March 2061
+  year: 2061
+- Cycle 724: 
+  id: 724
+  name: April 2061
+  year: 2061
+- Cycle 725: 
+  id: 725
+  name: May 2061
+  year: 2061
+- Cycle 726: 
+  id: 726
+  name: June 2061
+  year: 2061
+- Cycle 727: 
+  id: 727
+  name: July 2061
+  year: 2061
+- Cycle 728: 
+  id: 728
+  name: August 2061
+  year: 2061
+- Cycle 729: 
+  id: 729
+  name: September 2061
+  year: 2061
+- Cycle 730: 
+  id: 730
+  name: October 2061
+  year: 2061
+- Cycle 731: 
+  id: 731
+  name: November 2061
+  year: 2061
+- Cycle 732: 
+  id: 732
+  name: December 2061
+  year: 2061
+- Cycle 733: 
+  id: 733
+  name: January 2062
+  year: 2062
+- Cycle 734: 
+  id: 734
+  name: February 2062
+  year: 2062
+- Cycle 735: 
+  id: 735
+  name: March 2062
+  year: 2062
+- Cycle 736: 
+  id: 736
+  name: April 2062
+  year: 2062
+- Cycle 737: 
+  id: 737
+  name: May 2062
+  year: 2062
+- Cycle 738: 
+  id: 738
+  name: June 2062
+  year: 2062
+- Cycle 739: 
+  id: 739
+  name: July 2062
+  year: 2062
+- Cycle 740: 
+  id: 740
+  name: August 2062
+  year: 2062
+- Cycle 741: 
+  id: 741
+  name: September 2062
+  year: 2062
+- Cycle 742: 
+  id: 742
+  name: October 2062
+  year: 2062
+- Cycle 743: 
+  id: 743
+  name: November 2062
+  year: 2062
+- Cycle 744: 
+  id: 744
+  name: December 2062
+  year: 2062
+- Cycle 745: 
+  id: 745
+  name: January 2063
+  year: 2063
+- Cycle 746: 
+  id: 746
+  name: February 2063
+  year: 2063
+- Cycle 747: 
+  id: 747
+  name: March 2063
+  year: 2063
+- Cycle 748: 
+  id: 748
+  name: April 2063
+  year: 2063
+- Cycle 749: 
+  id: 749
+  name: May 2063
+  year: 2063
+- Cycle 750: 
+  id: 750
+  name: June 2063
+  year: 2063
+- Cycle 751: 
+  id: 751
+  name: July 2063
+  year: 2063
+- Cycle 752: 
+  id: 752
+  name: August 2063
+  year: 2063
+- Cycle 753: 
+  id: 753
+  name: September 2063
+  year: 2063
+- Cycle 754: 
+  id: 754
+  name: October 2063
+  year: 2063
+- Cycle 755: 
+  id: 755
+  name: November 2063
+  year: 2063
+- Cycle 756: 
+  id: 756
+  name: December 2063
+  year: 2063
+- Cycle 757: 
+  id: 757
+  name: January 2064
+  year: 2064
+- Cycle 758: 
+  id: 758
+  name: February 2064
+  year: 2064
+- Cycle 759: 
+  id: 759
+  name: March 2064
+  year: 2064
+- Cycle 760: 
+  id: 760
+  name: April 2064
+  year: 2064
+- Cycle 761: 
+  id: 761
+  name: May 2064
+  year: 2064
+- Cycle 762: 
+  id: 762
+  name: June 2064
+  year: 2064
+- Cycle 763: 
+  id: 763
+  name: July 2064
+  year: 2064
+- Cycle 764: 
+  id: 764
+  name: August 2064
+  year: 2064
+- Cycle 765: 
+  id: 765
+  name: September 2064
+  year: 2064
+- Cycle 766: 
+  id: 766
+  name: October 2064
+  year: 2064
+- Cycle 767: 
+  id: 767
+  name: November 2064
+  year: 2064
+- Cycle 768: 
+  id: 768
+  name: December 2064
+  year: 2064
+- Cycle 769: 
+  id: 769
+  name: January 2065
+  year: 2065
+- Cycle 770: 
+  id: 770
+  name: February 2065
+  year: 2065
+- Cycle 771: 
+  id: 771
+  name: March 2065
+  year: 2065
+- Cycle 772: 
+  id: 772
+  name: April 2065
+  year: 2065
+- Cycle 773: 
+  id: 773
+  name: May 2065
+  year: 2065
+- Cycle 774: 
+  id: 774
+  name: June 2065
+  year: 2065
+- Cycle 775: 
+  id: 775
+  name: July 2065
+  year: 2065
+- Cycle 776: 
+  id: 776
+  name: August 2065
+  year: 2065
+- Cycle 777: 
+  id: 777
+  name: September 2065
+  year: 2065
+- Cycle 778: 
+  id: 778
+  name: October 2065
+  year: 2065
+- Cycle 779: 
+  id: 779
+  name: November 2065
+  year: 2065
+- Cycle 780: 
+  id: 780
+  name: December 2065
+  year: 2065
+- Cycle 781: 
+  id: 781
+  name: January 2066
+  year: 2066
+- Cycle 782: 
+  id: 782
+  name: February 2066
+  year: 2066
+- Cycle 783: 
+  id: 783
+  name: March 2066
+  year: 2066
+- Cycle 784: 
+  id: 784
+  name: April 2066
+  year: 2066
+- Cycle 785: 
+  id: 785
+  name: May 2066
+  year: 2066
+- Cycle 786: 
+  id: 786
+  name: June 2066
+  year: 2066
+- Cycle 787: 
+  id: 787
+  name: July 2066
+  year: 2066
+- Cycle 788: 
+  id: 788
+  name: August 2066
+  year: 2066
+- Cycle 789: 
+  id: 789
+  name: September 2066
+  year: 2066
+- Cycle 790: 
+  id: 790
+  name: October 2066
+  year: 2066
+- Cycle 791: 
+  id: 791
+  name: November 2066
+  year: 2066
+- Cycle 792: 
+  id: 792
+  name: December 2066
+  year: 2066
+- Cycle 793: 
+  id: 793
+  name: January 2067
+  year: 2067
+- Cycle 794: 
+  id: 794
+  name: February 2067
+  year: 2067
+- Cycle 795: 
+  id: 795
+  name: March 2067
+  year: 2067
+- Cycle 796: 
+  id: 796
+  name: April 2067
+  year: 2067
+- Cycle 797: 
+  id: 797
+  name: May 2067
+  year: 2067
+- Cycle 798: 
+  id: 798
+  name: June 2067
+  year: 2067
+- Cycle 799: 
+  id: 799
+  name: July 2067
+  year: 2067
+- Cycle 800: 
+  id: 800
+  name: August 2067
+  year: 2067
+- Cycle 801: 
+  id: 801
+  name: September 2067
+  year: 2067
+- Cycle 802: 
+  id: 802
+  name: October 2067
+  year: 2067
+- Cycle 803: 
+  id: 803
+  name: November 2067
+  year: 2067
+- Cycle 804: 
+  id: 804
+  name: December 2067
+  year: 2067
+- Cycle 805: 
+  id: 805
+  name: January 2068
+  year: 2068
+- Cycle 806: 
+  id: 806
+  name: February 2068
+  year: 2068
+- Cycle 807: 
+  id: 807
+  name: March 2068
+  year: 2068
+- Cycle 808: 
+  id: 808
+  name: April 2068
+  year: 2068
+- Cycle 809: 
+  id: 809
+  name: May 2068
+  year: 2068
+- Cycle 810: 
+  id: 810
+  name: June 2068
+  year: 2068
+- Cycle 811: 
+  id: 811
+  name: July 2068
+  year: 2068
+- Cycle 812: 
+  id: 812
+  name: August 2068
+  year: 2068
+- Cycle 813: 
+  id: 813
+  name: September 2068
+  year: 2068
+- Cycle 814: 
+  id: 814
+  name: October 2068
+  year: 2068
+- Cycle 815: 
+  id: 815
+  name: November 2068
+  year: 2068
+- Cycle 816: 
+  id: 816
+  name: December 2068
+  year: 2068
+- Cycle 817: 
+  id: 817
+  name: January 2069
+  year: 2069
+- Cycle 818: 
+  id: 818
+  name: February 2069
+  year: 2069
+- Cycle 819: 
+  id: 819
+  name: March 2069
+  year: 2069
+- Cycle 820: 
+  id: 820
+  name: April 2069
+  year: 2069
+- Cycle 821: 
+  id: 821
+  name: May 2069
+  year: 2069
+- Cycle 822: 
+  id: 822
+  name: June 2069
+  year: 2069
+- Cycle 823: 
+  id: 823
+  name: July 2069
+  year: 2069
+- Cycle 824: 
+  id: 824
+  name: August 2069
+  year: 2069
+- Cycle 825: 
+  id: 825
+  name: September 2069
+  year: 2069
+- Cycle 826: 
+  id: 826
+  name: October 2069
+  year: 2069
+- Cycle 827: 
+  id: 827
+  name: November 2069
+  year: 2069
+- Cycle 828: 
+  id: 828
+  name: December 2069
+  year: 2069
+- Cycle 829: 
+  id: 829
+  name: January 2070
+  year: 2070
+- Cycle 830: 
+  id: 830
+  name: February 2070
+  year: 2070
+- Cycle 831: 
+  id: 831
+  name: March 2070
+  year: 2070
+- Cycle 832: 
+  id: 832
+  name: April 2070
+  year: 2070
+- Cycle 833: 
+  id: 833
+  name: May 2070
+  year: 2070
+- Cycle 834: 
+  id: 834
+  name: June 2070
+  year: 2070
+- Cycle 835: 
+  id: 835
+  name: July 2070
+  year: 2070
+- Cycle 836: 
+  id: 836
+  name: August 2070
+  year: 2070
+- Cycle 837: 
+  id: 837
+  name: September 2070
+  year: 2070
+- Cycle 838: 
+  id: 838
+  name: October 2070
+  year: 2070
+- Cycle 839: 
+  id: 839
+  name: November 2070
+  year: 2070
+- Cycle 840: 
+  id: 840
+  name: December 2070
+  year: 2070
+- Cycle 841: 
+  id: 841
+  name: January 2071
+  year: 2071
+- Cycle 842: 
+  id: 842
+  name: February 2071
+  year: 2071
+- Cycle 843: 
+  id: 843
+  name: March 2071
+  year: 2071
+- Cycle 844: 
+  id: 844
+  name: April 2071
+  year: 2071
+- Cycle 845: 
+  id: 845
+  name: May 2071
+  year: 2071
+- Cycle 846: 
+  id: 846
+  name: June 2071
+  year: 2071
+- Cycle 847: 
+  id: 847
+  name: July 2071
+  year: 2071
+- Cycle 848: 
+  id: 848
+  name: August 2071
+  year: 2071
+- Cycle 849: 
+  id: 849
+  name: September 2071
+  year: 2071
+- Cycle 850: 
+  id: 850
+  name: October 2071
+  year: 2071
+- Cycle 851: 
+  id: 851
+  name: November 2071
+  year: 2071
+- Cycle 852: 
+  id: 852
+  name: December 2071
+  year: 2071
+- Cycle 853: 
+  id: 853
+  name: January 2072
+  year: 2072
+- Cycle 854: 
+  id: 854
+  name: February 2072
+  year: 2072
+- Cycle 855: 
+  id: 855
+  name: March 2072
+  year: 2072
+- Cycle 856: 
+  id: 856
+  name: April 2072
+  year: 2072
+- Cycle 857: 
+  id: 857
+  name: May 2072
+  year: 2072
+- Cycle 858: 
+  id: 858
+  name: June 2072
+  year: 2072
+- Cycle 859: 
+  id: 859
+  name: July 2072
+  year: 2072
+- Cycle 860: 
+  id: 860
+  name: August 2072
+  year: 2072
+- Cycle 861: 
+  id: 861
+  name: September 2072
+  year: 2072
+- Cycle 862: 
+  id: 862
+  name: October 2072
+  year: 2072
+- Cycle 863: 
+  id: 863
+  name: November 2072
+  year: 2072
+- Cycle 864: 
+  id: 864
+  name: December 2072
+  year: 2072
+- Cycle 865: 
+  id: 865
+  name: January 2073
+  year: 2073
+- Cycle 866: 
+  id: 866
+  name: February 2073
+  year: 2073
+- Cycle 867: 
+  id: 867
+  name: March 2073
+  year: 2073
+- Cycle 868: 
+  id: 868
+  name: April 2073
+  year: 2073
+- Cycle 869: 
+  id: 869
+  name: May 2073
+  year: 2073
+- Cycle 870: 
+  id: 870
+  name: June 2073
+  year: 2073
+- Cycle 871: 
+  id: 871
+  name: July 2073
+  year: 2073
+- Cycle 872: 
+  id: 872
+  name: August 2073
+  year: 2073
+- Cycle 873: 
+  id: 873
+  name: September 2073
+  year: 2073
+- Cycle 874: 
+  id: 874
+  name: October 2073
+  year: 2073
+- Cycle 875: 
+  id: 875
+  name: November 2073
+  year: 2073
+- Cycle 876: 
+  id: 876
+  name: December 2073
+  year: 2073
+- Cycle 877: 
+  id: 877
+  name: January 2074
+  year: 2074
+- Cycle 878: 
+  id: 878
+  name: February 2074
+  year: 2074
+- Cycle 879: 
+  id: 879
+  name: March 2074
+  year: 2074
+- Cycle 880: 
+  id: 880
+  name: April 2074
+  year: 2074
+- Cycle 881: 
+  id: 881
+  name: May 2074
+  year: 2074
+- Cycle 882: 
+  id: 882
+  name: June 2074
+  year: 2074
+- Cycle 883: 
+  id: 883
+  name: July 2074
+  year: 2074
+- Cycle 884: 
+  id: 884
+  name: August 2074
+  year: 2074
+- Cycle 885: 
+  id: 885
+  name: September 2074
+  year: 2074
+- Cycle 886: 
+  id: 886
+  name: October 2074
+  year: 2074
+- Cycle 887: 
+  id: 887
+  name: November 2074
+  year: 2074
+- Cycle 888: 
+  id: 888
+  name: December 2074
+  year: 2074
+- Cycle 889: 
+  id: 889
+  name: January 2075
+  year: 2075
+- Cycle 890: 
+  id: 890
+  name: February 2075
+  year: 2075
+- Cycle 891: 
+  id: 891
+  name: March 2075
+  year: 2075
+- Cycle 892: 
+  id: 892
+  name: April 2075
+  year: 2075
+- Cycle 893: 
+  id: 893
+  name: May 2075
+  year: 2075
+- Cycle 894: 
+  id: 894
+  name: June 2075
+  year: 2075
+- Cycle 895: 
+  id: 895
+  name: July 2075
+  year: 2075
+- Cycle 896: 
+  id: 896
+  name: August 2075
+  year: 2075
+- Cycle 897: 
+  id: 897
+  name: September 2075
+  year: 2075
+- Cycle 898: 
+  id: 898
+  name: October 2075
+  year: 2075
+- Cycle 899: 
+  id: 899
+  name: November 2075
+  year: 2075
+- Cycle 900: 
+  id: 900
+  name: December 2075
+  year: 2075
+- Cycle 901: 
+  id: 901
+  name: January 2076
+  year: 2076
+- Cycle 902: 
+  id: 902
+  name: February 2076
+  year: 2076
+- Cycle 903: 
+  id: 903
+  name: March 2076
+  year: 2076
+- Cycle 904: 
+  id: 904
+  name: April 2076
+  year: 2076
+- Cycle 905: 
+  id: 905
+  name: May 2076
+  year: 2076
+- Cycle 906: 
+  id: 906
+  name: June 2076
+  year: 2076
+- Cycle 907: 
+  id: 907
+  name: July 2076
+  year: 2076
+- Cycle 908: 
+  id: 908
+  name: August 2076
+  year: 2076
+- Cycle 909: 
+  id: 909
+  name: September 2076
+  year: 2076
+- Cycle 910: 
+  id: 910
+  name: October 2076
+  year: 2076
+- Cycle 911: 
+  id: 911
+  name: November 2076
+  year: 2076
+- Cycle 912: 
+  id: 912
+  name: December 2076
+  year: 2076
+- Cycle 913: 
+  id: 913
+  name: January 2077
+  year: 2077
+- Cycle 914: 
+  id: 914
+  name: February 2077
+  year: 2077
+- Cycle 915: 
+  id: 915
+  name: March 2077
+  year: 2077
+- Cycle 916: 
+  id: 916
+  name: April 2077
+  year: 2077
+- Cycle 917: 
+  id: 917
+  name: May 2077
+  year: 2077
+- Cycle 918: 
+  id: 918
+  name: June 2077
+  year: 2077
+- Cycle 919: 
+  id: 919
+  name: July 2077
+  year: 2077
+- Cycle 920: 
+  id: 920
+  name: August 2077
+  year: 2077
+- Cycle 921: 
+  id: 921
+  name: September 2077
+  year: 2077
+- Cycle 922: 
+  id: 922
+  name: October 2077
+  year: 2077
+- Cycle 923: 
+  id: 923
+  name: November 2077
+  year: 2077
+- Cycle 924: 
+  id: 924
+  name: December 2077
+  year: 2077
+- Cycle 925: 
+  id: 925
+  name: January 2078
+  year: 2078
+- Cycle 926: 
+  id: 926
+  name: February 2078
+  year: 2078
+- Cycle 927: 
+  id: 927
+  name: March 2078
+  year: 2078
+- Cycle 928: 
+  id: 928
+  name: April 2078
+  year: 2078
+- Cycle 929: 
+  id: 929
+  name: May 2078
+  year: 2078
+- Cycle 930: 
+  id: 930
+  name: June 2078
+  year: 2078
+- Cycle 931: 
+  id: 931
+  name: July 2078
+  year: 2078
+- Cycle 932: 
+  id: 932
+  name: August 2078
+  year: 2078
+- Cycle 933: 
+  id: 933
+  name: September 2078
+  year: 2078
+- Cycle 934: 
+  id: 934
+  name: October 2078
+  year: 2078
+- Cycle 935: 
+  id: 935
+  name: November 2078
+  year: 2078
+- Cycle 936: 
+  id: 936
+  name: December 2078
+  year: 2078
+- Cycle 937: 
+  id: 937
+  name: January 2079
+  year: 2079
+- Cycle 938: 
+  id: 938
+  name: February 2079
+  year: 2079
+- Cycle 939: 
+  id: 939
+  name: March 2079
+  year: 2079
+- Cycle 940: 
+  id: 940
+  name: April 2079
+  year: 2079
+- Cycle 941: 
+  id: 941
+  name: May 2079
+  year: 2079
+- Cycle 942: 
+  id: 942
+  name: June 2079
+  year: 2079
+- Cycle 943: 
+  id: 943
+  name: July 2079
+  year: 2079
+- Cycle 944: 
+  id: 944
+  name: August 2079
+  year: 2079
+- Cycle 945: 
+  id: 945
+  name: September 2079
+  year: 2079
+- Cycle 946: 
+  id: 946
+  name: October 2079
+  year: 2079
+- Cycle 947: 
+  id: 947
+  name: November 2079
+  year: 2079
+- Cycle 948: 
+  id: 948
+  name: December 2079
+  year: 2079
+- Cycle 949: 
+  id: 949
+  name: January 2080
+  year: 2080
+- Cycle 950: 
+  id: 950
+  name: February 2080
+  year: 2080
+- Cycle 951: 
+  id: 951
+  name: March 2080
+  year: 2080
+- Cycle 952: 
+  id: 952
+  name: April 2080
+  year: 2080
+- Cycle 953: 
+  id: 953
+  name: May 2080
+  year: 2080
+- Cycle 954: 
+  id: 954
+  name: June 2080
+  year: 2080
+- Cycle 955: 
+  id: 955
+  name: July 2080
+  year: 2080
+- Cycle 956: 
+  id: 956
+  name: August 2080
+  year: 2080
+- Cycle 957: 
+  id: 957
+  name: September 2080
+  year: 2080
+- Cycle 958: 
+  id: 958
+  name: October 2080
+  year: 2080
+- Cycle 959: 
+  id: 959
+  name: November 2080
+  year: 2080
+- Cycle 960: 
+  id: 960
+  name: December 2080
+  year: 2080
+- Cycle 961: 
+  id: 961
+  name: January 2081
+  year: 2081
+- Cycle 962: 
+  id: 962
+  name: February 2081
+  year: 2081
+- Cycle 963: 
+  id: 963
+  name: March 2081
+  year: 2081
+- Cycle 964: 
+  id: 964
+  name: April 2081
+  year: 2081
+- Cycle 965: 
+  id: 965
+  name: May 2081
+  year: 2081
+- Cycle 966: 
+  id: 966
+  name: June 2081
+  year: 2081
+- Cycle 967: 
+  id: 967
+  name: July 2081
+  year: 2081
+- Cycle 968: 
+  id: 968
+  name: August 2081
+  year: 2081
+- Cycle 969: 
+  id: 969
+  name: September 2081
+  year: 2081
+- Cycle 970: 
+  id: 970
+  name: October 2081
+  year: 2081
+- Cycle 971: 
+  id: 971
+  name: November 2081
+  year: 2081
+- Cycle 972: 
+  id: 972
+  name: December 2081
+  year: 2081
+- Cycle 973: 
+  id: 973
+  name: January 2082
+  year: 2082
+- Cycle 974: 
+  id: 974
+  name: February 2082
+  year: 2082
+- Cycle 975: 
+  id: 975
+  name: March 2082
+  year: 2082
+- Cycle 976: 
+  id: 976
+  name: April 2082
+  year: 2082
+- Cycle 977: 
+  id: 977
+  name: May 2082
+  year: 2082
+- Cycle 978: 
+  id: 978
+  name: June 2082
+  year: 2082
+- Cycle 979: 
+  id: 979
+  name: July 2082
+  year: 2082
+- Cycle 980: 
+  id: 980
+  name: August 2082
+  year: 2082
+- Cycle 981: 
+  id: 981
+  name: September 2082
+  year: 2082
+- Cycle 982: 
+  id: 982
+  name: October 2082
+  year: 2082
+- Cycle 983: 
+  id: 983
+  name: November 2082
+  year: 2082
+- Cycle 984: 
+  id: 984
+  name: December 2082
+  year: 2082
+- Cycle 985: 
+  id: 985
+  name: January 2083
+  year: 2083
+- Cycle 986: 
+  id: 986
+  name: February 2083
+  year: 2083
+- Cycle 987: 
+  id: 987
+  name: March 2083
+  year: 2083
+- Cycle 988: 
+  id: 988
+  name: April 2083
+  year: 2083
+- Cycle 989: 
+  id: 989
+  name: May 2083
+  year: 2083
+- Cycle 990: 
+  id: 990
+  name: June 2083
+  year: 2083
+- Cycle 991: 
+  id: 991
+  name: July 2083
+  year: 2083
+- Cycle 992: 
+  id: 992
+  name: August 2083
+  year: 2083
+- Cycle 993: 
+  id: 993
+  name: September 2083
+  year: 2083
+- Cycle 994: 
+  id: 994
+  name: October 2083
+  year: 2083
+- Cycle 995: 
+  id: 995
+  name: November 2083
+  year: 2083
+- Cycle 996: 
+  id: 996
+  name: December 2083
+  year: 2083
+- Cycle 997: 
+  id: 997
+  name: January 2084
+  year: 2084
+- Cycle 998: 
+  id: 998
+  name: February 2084
+  year: 2084
+- Cycle 999: 
+  id: 999
+  name: March 2084
+  year: 2084
+- Cycle 1000: 
+  id: 1000
+  name: April 2084
+  year: 2084
+- Cycle 1001: 
+  id: 1001
+  name: May 2084
+  year: 2084
+- Cycle 1002: 
+  id: 1002
+  name: June 2084
+  year: 2084
+- Cycle 1003: 
+  id: 1003
+  name: July 2084
+  year: 2084
+- Cycle 1004: 
+  id: 1004
+  name: August 2084
+  year: 2084
+- Cycle 1005: 
+  id: 1005
+  name: September 2084
+  year: 2084
+- Cycle 1006: 
+  id: 1006
+  name: October 2084
+  year: 2084
+- Cycle 1007: 
+  id: 1007
+  name: November 2084
+  year: 2084
+- Cycle 1008: 
+  id: 1008
+  name: December 2084
+  year: 2084
+- Cycle 1009: 
+  id: 1009
+  name: January 2085
+  year: 2085
+- Cycle 1010: 
+  id: 1010
+  name: February 2085
+  year: 2085
+- Cycle 1011: 
+  id: 1011
+  name: March 2085
+  year: 2085
+- Cycle 1012: 
+  id: 1012
+  name: April 2085
+  year: 2085
+- Cycle 1013: 
+  id: 1013
+  name: May 2085
+  year: 2085
+- Cycle 1014: 
+  id: 1014
+  name: June 2085
+  year: 2085
+- Cycle 1015: 
+  id: 1015
+  name: July 2085
+  year: 2085
+- Cycle 1016: 
+  id: 1016
+  name: August 2085
+  year: 2085
+- Cycle 1017: 
+  id: 1017
+  name: September 2085
+  year: 2085
+- Cycle 1018: 
+  id: 1018
+  name: October 2085
+  year: 2085
+- Cycle 1019: 
+  id: 1019
+  name: November 2085
+  year: 2085
+- Cycle 1020: 
+  id: 1020
+  name: December 2085
+  year: 2085
+- Cycle 1021: 
+  id: 1021
+  name: January 2086
+  year: 2086
+- Cycle 1022: 
+  id: 1022
+  name: February 2086
+  year: 2086
+- Cycle 1023: 
+  id: 1023
+  name: March 2086
+  year: 2086
+- Cycle 1024: 
+  id: 1024
+  name: April 2086
+  year: 2086
+- Cycle 1025: 
+  id: 1025
+  name: May 2086
+  year: 2086
+- Cycle 1026: 
+  id: 1026
+  name: June 2086
+  year: 2086
+- Cycle 1027: 
+  id: 1027
+  name: July 2086
+  year: 2086
+- Cycle 1028: 
+  id: 1028
+  name: August 2086
+  year: 2086
+- Cycle 1029: 
+  id: 1029
+  name: September 2086
+  year: 2086
+- Cycle 1030: 
+  id: 1030
+  name: October 2086
+  year: 2086
+- Cycle 1031: 
+  id: 1031
+  name: November 2086
+  year: 2086
+- Cycle 1032: 
+  id: 1032
+  name: December 2086
+  year: 2086
+- Cycle 1033: 
+  id: 1033
+  name: January 2087
+  year: 2087
+- Cycle 1034: 
+  id: 1034
+  name: February 2087
+  year: 2087
+- Cycle 1035: 
+  id: 1035
+  name: March 2087
+  year: 2087
+- Cycle 1036: 
+  id: 1036
+  name: April 2087
+  year: 2087
+- Cycle 1037: 
+  id: 1037
+  name: May 2087
+  year: 2087
+- Cycle 1038: 
+  id: 1038
+  name: June 2087
+  year: 2087
+- Cycle 1039: 
+  id: 1039
+  name: July 2087
+  year: 2087
+- Cycle 1040: 
+  id: 1040
+  name: August 2087
+  year: 2087
+- Cycle 1041: 
+  id: 1041
+  name: September 2087
+  year: 2087
+- Cycle 1042: 
+  id: 1042
+  name: October 2087
+  year: 2087
+- Cycle 1043: 
+  id: 1043
+  name: November 2087
+  year: 2087
+- Cycle 1044: 
+  id: 1044
+  name: December 2087
+  year: 2087
+- Cycle 1045: 
+  id: 1045
+  name: January 2088
+  year: 2088
+- Cycle 1046: 
+  id: 1046
+  name: February 2088
+  year: 2088
+- Cycle 1047: 
+  id: 1047
+  name: March 2088
+  year: 2088
+- Cycle 1048: 
+  id: 1048
+  name: April 2088
+  year: 2088
+- Cycle 1049: 
+  id: 1049
+  name: May 2088
+  year: 2088
+- Cycle 1050: 
+  id: 1050
+  name: June 2088
+  year: 2088
+- Cycle 1051: 
+  id: 1051
+  name: July 2088
+  year: 2088
+- Cycle 1052: 
+  id: 1052
+  name: August 2088
+  year: 2088
+- Cycle 1053: 
+  id: 1053
+  name: September 2088
+  year: 2088
+- Cycle 1054: 
+  id: 1054
+  name: October 2088
+  year: 2088
+- Cycle 1055: 
+  id: 1055
+  name: November 2088
+  year: 2088
+- Cycle 1056: 
+  id: 1056
+  name: December 2088
+  year: 2088
+- Cycle 1057: 
+  id: 1057
+  name: January 2089
+  year: 2089
+- Cycle 1058: 
+  id: 1058
+  name: February 2089
+  year: 2089
+- Cycle 1059: 
+  id: 1059
+  name: March 2089
+  year: 2089
+- Cycle 1060: 
+  id: 1060
+  name: April 2089
+  year: 2089
+- Cycle 1061: 
+  id: 1061
+  name: May 2089
+  year: 2089
+- Cycle 1062: 
+  id: 1062
+  name: June 2089
+  year: 2089
+- Cycle 1063: 
+  id: 1063
+  name: July 2089
+  year: 2089
+- Cycle 1064: 
+  id: 1064
+  name: August 2089
+  year: 2089
+- Cycle 1065: 
+  id: 1065
+  name: September 2089
+  year: 2089
+- Cycle 1066: 
+  id: 1066
+  name: October 2089
+  year: 2089
+- Cycle 1067: 
+  id: 1067
+  name: November 2089
+  year: 2089
+- Cycle 1068: 
+  id: 1068
+  name: December 2089
+  year: 2089
+- Cycle 1069: 
+  id: 1069
+  name: January 2090
+  year: 2090
+- Cycle 1070: 
+  id: 1070
+  name: February 2090
+  year: 2090
+- Cycle 1071: 
+  id: 1071
+  name: March 2090
+  year: 2090
+- Cycle 1072: 
+  id: 1072
+  name: April 2090
+  year: 2090
+- Cycle 1073: 
+  id: 1073
+  name: May 2090
+  year: 2090
+- Cycle 1074: 
+  id: 1074
+  name: June 2090
+  year: 2090
+- Cycle 1075: 
+  id: 1075
+  name: July 2090
+  year: 2090
+- Cycle 1076: 
+  id: 1076
+  name: August 2090
+  year: 2090
+- Cycle 1077: 
+  id: 1077
+  name: September 2090
+  year: 2090
+- Cycle 1078: 
+  id: 1078
+  name: October 2090
+  year: 2090
+- Cycle 1079: 
+  id: 1079
+  name: November 2090
+  year: 2090
+- Cycle 1080: 
+  id: 1080
+  name: December 2090
+  year: 2090
+- Cycle 1081: 
+  id: 1081
+  name: January 2091
+  year: 2091
+- Cycle 1082: 
+  id: 1082
+  name: February 2091
+  year: 2091
+- Cycle 1083: 
+  id: 1083
+  name: March 2091
+  year: 2091
+- Cycle 1084: 
+  id: 1084
+  name: April 2091
+  year: 2091
+- Cycle 1085: 
+  id: 1085
+  name: May 2091
+  year: 2091
+- Cycle 1086: 
+  id: 1086
+  name: June 2091
+  year: 2091
+- Cycle 1087: 
+  id: 1087
+  name: July 2091
+  year: 2091
+- Cycle 1088: 
+  id: 1088
+  name: August 2091
+  year: 2091
+- Cycle 1089: 
+  id: 1089
+  name: September 2091
+  year: 2091
+- Cycle 1090: 
+  id: 1090
+  name: October 2091
+  year: 2091
+- Cycle 1091: 
+  id: 1091
+  name: November 2091
+  year: 2091
+- Cycle 1092: 
+  id: 1092
+  name: December 2091
+  year: 2091
+- Cycle 1093: 
+  id: 1093
+  name: January 2092
+  year: 2092
+- Cycle 1094: 
+  id: 1094
+  name: February 2092
+  year: 2092
+- Cycle 1095: 
+  id: 1095
+  name: March 2092
+  year: 2092
+- Cycle 1096: 
+  id: 1096
+  name: April 2092
+  year: 2092
+- Cycle 1097: 
+  id: 1097
+  name: May 2092
+  year: 2092
+- Cycle 1098: 
+  id: 1098
+  name: June 2092
+  year: 2092
+- Cycle 1099: 
+  id: 1099
+  name: July 2092
+  year: 2092
+- Cycle 1100: 
+  id: 1100
+  name: August 2092
+  year: 2092
+- Cycle 1101: 
+  id: 1101
+  name: September 2092
+  year: 2092
+- Cycle 1102: 
+  id: 1102
+  name: October 2092
+  year: 2092
+- Cycle 1103: 
+  id: 1103
+  name: November 2092
+  year: 2092
+- Cycle 1104: 
+  id: 1104
+  name: December 2092
+  year: 2092
+- Cycle 1105: 
+  id: 1105
+  name: January 2093
+  year: 2093
+- Cycle 1106: 
+  id: 1106
+  name: February 2093
+  year: 2093
+- Cycle 1107: 
+  id: 1107
+  name: March 2093
+  year: 2093
+- Cycle 1108: 
+  id: 1108
+  name: April 2093
+  year: 2093
+- Cycle 1109: 
+  id: 1109
+  name: May 2093
+  year: 2093
+- Cycle 1110: 
+  id: 1110
+  name: June 2093
+  year: 2093
+- Cycle 1111: 
+  id: 1111
+  name: July 2093
+  year: 2093
+- Cycle 1112: 
+  id: 1112
+  name: August 2093
+  year: 2093
+- Cycle 1113: 
+  id: 1113
+  name: September 2093
+  year: 2093
+- Cycle 1114: 
+  id: 1114
+  name: October 2093
+  year: 2093
+- Cycle 1115: 
+  id: 1115
+  name: November 2093
+  year: 2093
+- Cycle 1116: 
+  id: 1116
+  name: December 2093
+  year: 2093
+- Cycle 1117: 
+  id: 1117
+  name: January 2094
+  year: 2094
+- Cycle 1118: 
+  id: 1118
+  name: February 2094
+  year: 2094
+- Cycle 1119: 
+  id: 1119
+  name: March 2094
+  year: 2094
+- Cycle 1120: 
+  id: 1120
+  name: April 2094
+  year: 2094
+- Cycle 1121: 
+  id: 1121
+  name: May 2094
+  year: 2094
+- Cycle 1122: 
+  id: 1122
+  name: June 2094
+  year: 2094
+- Cycle 1123: 
+  id: 1123
+  name: July 2094
+  year: 2094
+- Cycle 1124: 
+  id: 1124
+  name: August 2094
+  year: 2094
+- Cycle 1125: 
+  id: 1125
+  name: September 2094
+  year: 2094
+- Cycle 1126: 
+  id: 1126
+  name: October 2094
+  year: 2094
+- Cycle 1127: 
+  id: 1127
+  name: November 2094
+  year: 2094
+- Cycle 1128: 
+  id: 1128
+  name: December 2094
+  year: 2094
+- Cycle 1129: 
+  id: 1129
+  name: January 2095
+  year: 2095
+- Cycle 1130: 
+  id: 1130
+  name: February 2095
+  year: 2095
+- Cycle 1131: 
+  id: 1131
+  name: March 2095
+  year: 2095
+- Cycle 1132: 
+  id: 1132
+  name: April 2095
+  year: 2095
+- Cycle 1133: 
+  id: 1133
+  name: May 2095
+  year: 2095
+- Cycle 1134: 
+  id: 1134
+  name: June 2095
+  year: 2095
+- Cycle 1135: 
+  id: 1135
+  name: July 2095
+  year: 2095
+- Cycle 1136: 
+  id: 1136
+  name: August 2095
+  year: 2095
+- Cycle 1137: 
+  id: 1137
+  name: September 2095
+  year: 2095
+- Cycle 1138: 
+  id: 1138
+  name: October 2095
+  year: 2095
+- Cycle 1139: 
+  id: 1139
+  name: November 2095
+  year: 2095
+- Cycle 1140: 
+  id: 1140
+  name: December 2095
+  year: 2095
+- Cycle 1141: 
+  id: 1141
+  name: January 2096
+  year: 2096
+- Cycle 1142: 
+  id: 1142
+  name: February 2096
+  year: 2096
+- Cycle 1143: 
+  id: 1143
+  name: March 2096
+  year: 2096
+- Cycle 1144: 
+  id: 1144
+  name: April 2096
+  year: 2096
+- Cycle 1145: 
+  id: 1145
+  name: May 2096
+  year: 2096
+- Cycle 1146: 
+  id: 1146
+  name: June 2096
+  year: 2096
+- Cycle 1147: 
+  id: 1147
+  name: July 2096
+  year: 2096
+- Cycle 1148: 
+  id: 1148
+  name: August 2096
+  year: 2096
+- Cycle 1149: 
+  id: 1149
+  name: September 2096
+  year: 2096
+- Cycle 1150: 
+  id: 1150
+  name: October 2096
+  year: 2096
+- Cycle 1151: 
+  id: 1151
+  name: November 2096
+  year: 2096
+- Cycle 1152: 
+  id: 1152
+  name: December 2096
+  year: 2096
+- Cycle 1153: 
+  id: 1153
+  name: January 2097
+  year: 2097
+- Cycle 1154: 
+  id: 1154
+  name: February 2097
+  year: 2097
+- Cycle 1155: 
+  id: 1155
+  name: March 2097
+  year: 2097
+- Cycle 1156: 
+  id: 1156
+  name: April 2097
+  year: 2097
+- Cycle 1157: 
+  id: 1157
+  name: May 2097
+  year: 2097
+- Cycle 1158: 
+  id: 1158
+  name: June 2097
+  year: 2097
+- Cycle 1159: 
+  id: 1159
+  name: July 2097
+  year: 2097
+- Cycle 1160: 
+  id: 1160
+  name: August 2097
+  year: 2097
+- Cycle 1161: 
+  id: 1161
+  name: September 2097
+  year: 2097
+- Cycle 1162: 
+  id: 1162
+  name: October 2097
+  year: 2097
+- Cycle 1163: 
+  id: 1163
+  name: November 2097
+  year: 2097
+- Cycle 1164: 
+  id: 1164
+  name: December 2097
+  year: 2097
+- Cycle 1165: 
+  id: 1165
+  name: January 2098
+  year: 2098
+- Cycle 1166: 
+  id: 1166
+  name: February 2098
+  year: 2098
+- Cycle 1167: 
+  id: 1167
+  name: March 2098
+  year: 2098
+- Cycle 1168: 
+  id: 1168
+  name: April 2098
+  year: 2098
+- Cycle 1169: 
+  id: 1169
+  name: May 2098
+  year: 2098
+- Cycle 1170: 
+  id: 1170
+  name: June 2098
+  year: 2098
+- Cycle 1171: 
+  id: 1171
+  name: July 2098
+  year: 2098
+- Cycle 1172: 
+  id: 1172
+  name: August 2098
+  year: 2098
+- Cycle 1173: 
+  id: 1173
+  name: September 2098
+  year: 2098
+- Cycle 1174: 
+  id: 1174
+  name: October 2098
+  year: 2098
+- Cycle 1175: 
+  id: 1175
+  name: November 2098
+  year: 2098
+- Cycle 1176: 
+  id: 1176
+  name: December 2098
+  year: 2098
+- Cycle 1177: 
+  id: 1177
+  name: January 2099
+  year: 2099
+- Cycle 1178: 
+  id: 1178
+  name: February 2099
+  year: 2099
+- Cycle 1179: 
+  id: 1179
+  name: March 2099
+  year: 2099
+- Cycle 1180: 
+  id: 1180
+  name: April 2099
+  year: 2099
+- Cycle 1181: 
+  id: 1181
+  name: May 2099
+  year: 2099
+- Cycle 1182: 
+  id: 1182
+  name: June 2099
+  year: 2099
+- Cycle 1183: 
+  id: 1183
+  name: July 2099
+  year: 2099
+- Cycle 1184: 
+  id: 1184
+  name: August 2099
+  year: 2099
+- Cycle 1185: 
+  id: 1185
+  name: September 2099
+  year: 2099
+- Cycle 1186: 
+  id: 1186
+  name: October 2099
+  year: 2099
+- Cycle 1187: 
+  id: 1187
+  name: November 2099
+  year: 2099
+- Cycle 1188: 
+  id: 1188
+  name: December 2099
+  year: 2099

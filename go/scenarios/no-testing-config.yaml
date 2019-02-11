@@ -1,0 +1,32 @@
+- Intervention 0:
+  id: 0
+  name: Basecase
+  begin_cycle: 2
+  end_cycle: 1000
+  testing_groups:
+    - group 1:
+      id: 1
+      name: Base 1
+      monthly_testing_uptake: 0.00
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing TST
+      test_choice_neg: Uninfected Testing TST
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 2:
+      id: 2
+      name: Base 2
+      monthly_testing_uptake: 0.00
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life

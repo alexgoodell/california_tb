@@ -1,0 +1,35 @@
+package main
+
+import (
+	"fmt"
+
+	"github.com/jinzhu/gorm"
+)
+
+
+{{gocode1}}
+
+func initializeVariables() {
+
+	db, err := gorm.Open("sqlite3", DATABASE_PATH)
+
+	//remove rows from previous simulations
+	db.Exec("DELETE FROM outputs_by_cycle_state")
+
+	if err != nil {
+		fmt.Println("error connecting to database")
+		pause()
+		pause()
+		pause()
+		pause()
+		initializeInputs(NumberOfCycles)
+	}
+
+	/////// DYNAMICALLY GENERATED DO NOT TOUCH BELOW THIS LINE //////////
+	
+
+	{{gocode2}}
+
+	/////// DYNAMICALLY GENERATED DO NOT TOUCH ABOVE THIS LINE //////////
+
+}

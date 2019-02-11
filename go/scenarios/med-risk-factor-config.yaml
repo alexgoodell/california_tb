@@ -1,0 +1,181 @@
+- Intervention 0:
+  id: 0
+  name: Basecase
+  testing_groups:
+    - group 1:
+      id: 1
+      name: Base 1
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing TST
+      test_choice_neg: Uninfected Testing TST
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 2:
+      id: 2
+      name: Base 2
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+- Intervention 1:
+  id: 1
+  name: 2x in those with medical risk factors (QFT/3HP)
+  testing_groups:
+    - group 1:
+      id: 1
+      name: Base 1
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing TST
+      test_choice_neg: Uninfected Testing TST
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 2:
+      id: 2
+      name: Base 2
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 3:
+      id: 3
+      name: Base 3
+      begin_cycle: 193
+      end_cycle: 1000
+      monthly_testing_uptake: 0.004082068
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI RTP - Month 1
+      treatment_choice_neg: FP LTBI RTP - Month 1
+      criteria:
+        - chain_name: Medical risk factor
+          state_names:
+            - Medical risk factor
+- Intervention 2:
+  id: 2
+  name: 4x in those with medical risk factors  (QFT/3HP)
+  testing_groups:
+    - group 1:
+      id: 1
+      name: Base 1
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing TST
+      test_choice_neg: Uninfected Testing TST
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 2:
+      id: 2
+      name: Base 2
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 3:
+      id: 3
+      name: Base 3
+      begin_cycle: 193
+      end_cycle: 1000
+      monthly_testing_uptake: 0.012246204
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI RTP - Month 1
+      treatment_choice_neg: FP LTBI RTP - Month 1
+      criteria:
+        - chain_name: Medical risk factor
+          state_names:
+            - Medical risk factor
+- Intervention 3:
+  id: 3
+  name: 10x in those with medical risk factors (QFT/3HP)
+  testing_groups:
+    - group 1:
+      id: 1
+      name: Base 1
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing TST
+      test_choice_neg: Uninfected Testing TST
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 2:
+      id: 2
+      name: Base 2
+      begin_cycle: 2
+      end_cycle: 1000
+      monthly_testing_uptake: 0.002041034
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI 6m INH - Month 1
+      treatment_choice_neg: FP LTBI 6m INH - Month 1
+      criteria:
+        - chain_name: Natural death
+          state_names:
+            - Life
+    - group 3:
+      id: 3
+      name: Base 3
+      begin_cycle: 193
+      end_cycle: 1000
+      monthly_testing_uptake: 0.036738612
+      # see "current treatment levels xls"
+      test_choice_pos: Infected Testing QFT
+      test_choice_neg: Uninfected Testing QFT
+      treatment_choice_pos: LTBI RTP - Month 1
+      treatment_choice_neg: FP LTBI RTP - Month 1
+      criteria:
+        - chain_name: Medical risk factor
+          state_names:
+            - Medical risk factor
